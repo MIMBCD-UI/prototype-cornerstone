@@ -1,0 +1,36 @@
+{
+  "name": "mimbcd-uiDemo",
+  "version": "0.1.0",
+  "description": "MIMBCD-UI Demo",
+  "keywords": [
+    "DICOM",
+    "WADO",
+    "cornerstone",
+    "medical",
+    "imaging"
+  ],
+  "author": "Francisco Maria Calisto",
+  "homepage": "https://github.com/chafey/cornerstoneDemo",
+  "licnense": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chafey/cornerstoneDemo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browserify": "^14.3.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-concat": "^0.3.0",
+    "grunt-contrib-copy": "0.4.x",
+    "grunt-contrib-jshint": "^0.8.0",
+    "grunt-contrib-qunit": "^0.4.0",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.2.1"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "studyList": [
+        {
+            "patientName" : "Anonymized1",
+            "patientId" : "5A7A314A-B881-4BEF-91AA-73258CA96675",
+            "studyDate" : "20160216",
+            "modality" : "US",
+            "studyDescription" :"Breast",
+            "numImages" : 1,
+            "studyId" : "usbreaststudy"
+        },
+        {
+            "patientName" : "Anonymized2",
+            "patientId" : "9AF6DD70-51D7-457E-AF53-30CCDC5D7126",
+            "studyDate" : "20131101",
+            "modality" : "US",
+            "studyDescription" :"Breast",
+            "numImages" : 6,
+            "studyId" : "usmgbreaststudy"
+        },
+        {
+            "patientName" : "Anonymized3",
+            "patientId" : "1E60E211-42B6-4556-A1F6-223E85AD38A6",
+            "studyDate" : "20161205",
+            "modality" : "US",
+            "studyDescription" :"Breast",
+            "numImages" : 1,
+            "studyId" : "us2breaststudy"
+        }
+    ]
+}
