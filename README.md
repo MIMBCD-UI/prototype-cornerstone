@@ -12,13 +12,19 @@ This project needs both [`npm`](https://www.npmjs.com/) and [`http-server`](http
 
 `cd dicom-server/orthancAndPluginsOSX.stable/`
 
-2) Double click and run the file `startOrthanc.command`.
+2) Start Orthanc DICOM Server choosing one of the two options:
+
+2.1) By using the terminal:
+
+`./startOrthanc.command`
+
+2.2) Or alternatively, double click and run the file `startOrthanc.command`
 
 3) Open the link:
 
 `localhost:8042`
 
-If you need some help see the [Demo](https://youtu.be/tkzpT3KpY2A).
+If you need some help see the [Demo](https://youtu.be/tkzpT3KpY2A)
 
 4) Go inside the code folder:
 
