@@ -14,11 +14,13 @@ This project needs both [`npm`](https://www.npmjs.com/) and [`http-server`](http
 
 2. Start Orthanc DICOM Server choosing one of the two options:
 
-   2.1. By using the terminal:
+2.1. By using the terminal:
 
 `./startOrthanc.command`
 
-   2.2. Or alternatively, double click and run the file `startOrthanc.command`
+2.2. Or alternatively, double click and run the file:
+
+`startOrthanc.command`
 
 3. Open the link:
 
