@@ -35,7 +35,7 @@ The [`http-server`](https://github.com/indexzero/http-server/blob/master/README.
 
 Installation via `npm`:
 
-     npm install http-server -g
+     npm install http-server
 
 This will install `http-server` globally so that it may be run from the command line.
 
