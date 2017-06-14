@@ -4,7 +4,7 @@
 
 ## Install and Run
 
-This project needs both [`npm`](https://www.npmjs.com/) and [`http-server`](https://github.com/indexzero/http-server) dependencies to install and run the core project. If you do not have those installed please follow the [`INSTALL`](src/INSTALL.md) instructions.
+This project needs both [`npm`](https://www.npmjs.com/) and [`http-server`](https://github.com/indexzero/http-server) dependencies to install and run the core project. If you do not have those installed please follow the [`INSTALL`](src/INSTALL.md) instructions. We are using [Orthanc](http://www.orthanc-server.com/) as DICOM Server, your can use it or use yours. If you already have your DICOM Server please jump for section [Run](https://github.com/MIMBCD-UI/prototype-cornerstone#run).
 
 ### DICOM Server
 
