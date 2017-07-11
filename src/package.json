@@ -17,7 +17,7 @@
     "url": "https://github.com/chafey/cornerstoneDemo.git"
   },
   "scripts": {
-    "start": "node node_modules/http-server/bin/http-server",
+    "start": "node node_modules/http-server/bin/http-server -p 8082",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
