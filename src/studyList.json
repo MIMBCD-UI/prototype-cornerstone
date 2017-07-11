@@ -2,30 +2,30 @@
     "studyList": [
         {
             "patientName" : "Anonymized1",
-            "patientId" : "5A7A314A-B881-4BEF-91AA-73258CA96675",
-            "studyDate" : "20160216",
+            "patientId" : "34cd0db6-6cb6-42a4-8fa6-476b6c61e9da",
+            "studyDate" : "20131101",
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
-            "studyId" : "usbreaststudy"
+            "studyId" : "anonymized1"
         },
         {
             "patientName" : "Anonymized2",
-            "patientId" : "9AF6DD70-51D7-457E-AF53-30CCDC5D7126",
+            "patientId" : "32d71d90-925d-4133-b068-6bb452a09449",
             "studyDate" : "20131101",
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 6,
-            "studyId" : "usmgbreaststudy"
+            "studyId" : "anonymized2"
         },
         {
             "patientName" : "Anonymized3",
-            "patientId" : "1E60E211-42B6-4556-A1F6-223E85AD38A6",
+            "patientId" : "d563e9fc-72df-42e6-ab50-ff1515bc791f",
             "studyDate" : "20161205",
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
-            "studyId" : "us2breaststudy"
+            "studyId" : "anonymized3"
         }
     ]
 }

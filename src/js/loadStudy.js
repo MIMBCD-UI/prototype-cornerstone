@@ -69,10 +69,10 @@ function loadStudy(studyViewer, viewportModel, studyId) {
             if (series.numberOfFrames !== undefined) {
                 var numberOfFrames = series.numberOfFrames;
                 for (var i = 0; i < numberOfFrames; i++) {
-                    var imageId = series.instanceList[0].imageId + "?frame=" + i;
+                    var imageId = /*series.instanceList[0].imageId*/ "" + "?frame=" + i;
                     if (imageId.substr(0, 4) !== 'http') {
                         //imageId = "dicomweb://cornerstonetech.org/images/ClearCanvas/" + imageId;
-                        imageId = "dicomweb://localhost:8042/instances/" + imageId;
+                        imageId = "dicomweb://ec2-52-15-116-142.us-east-2.compute.amazonaws.com/orthanc/instances/" + imageId;
                         console.log("DICOM ID: ", imageId);
                     }
                     stack.imageIds.push(imageId);
@@ -84,7 +84,7 @@ function loadStudy(studyViewer, viewportModel, studyId) {
 
                     if (image.imageId.substr(0, 4) !== 'http') {
                         //imageId = "dicomweb://cornerstonetech.org/images/ClearCanvas/" + image.imageId;
-                        imageId = "dicomweb://localhost:8042/instances/" + image.imageId;
+                        imageId = "dicomweb://ec2-52-15-116-142.us-east-2.compute.amazonaws.com/orthanc/instances/" + image.imageId;
                         console.log("DICOM Image ID: ", image.imageId);
                     }
                     stack.imageIds.push(imageId);
