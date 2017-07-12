@@ -16,7 +16,7 @@
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
-            "studyId" : "anonymized2"
+            "studyId" : "anonymized2_us"
         },
         {
             "patientName" : "Anonymized2",
@@ -25,7 +25,7 @@
             "modality" : "MG",
             "studyDescription" :"Mamografia",
             "numImages" : 11322,
-            "studyId" : "anonymized2"
+            "studyId" : "anonymized2_mg"
         },
         {
             "patientName" : "Anonymized3",
@@ -34,7 +34,7 @@
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
-            "studyId" : "anonymized3"
+            "studyId" : "anonymized3_us"
         },
         {
             "patientName" : "Anonymized3",
@@ -43,7 +43,7 @@
             "modality" : "MG",
             "studyDescription" :"Mamografia",
             "numImages" : 5664,
-            "studyId" : "anonymized3"
+            "studyId" : "anonymized3_mg"
         },
         {
             "patientName" : "Anonymized4",
@@ -52,7 +52,7 @@
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
-            "studyId" : "anonymized4"
+            "studyId" : "anonymized4_us"
         },
         {
             "patientName" : "Anonymized4",
@@ -61,7 +61,7 @@
             "modality" : "MG",
             "studyDescription" :"ROUTINE MAMMOGRAPHY",
             "numImages" : 10,
-            "studyId" : "anonymized4"
+            "studyId" : "anonymized4_mg"
         }
     ]
 }
