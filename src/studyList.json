@@ -2,66 +2,66 @@
     "studyList": [
         {
             "patientName" : "Anonymized1",
-            "patientId" : "34cd0db6-6cb6-42a4-8fa6-476b6c61e9da",
-            "studyDate" : "20131101",
-            "modality" : "US",
-            "studyDescription" :"Breast",
-            "numImages" : 1,
+            "patientId" : "83d246ef-00f9-40bd-a432-6e3c15c81e84",
+            "studyDate" : "20170127",
+            "modality" : "MG",
+            "studyDescription" :"Screening-Bilateral Mammography",
+            "numImages" : 10,
             "studyId" : "anonymized1"
         },
         {
             "patientName" : "Anonymized2",
-            "patientId" : "32d71d90-925d-4133-b068-6bb452a09449",
-            "studyDate" : "20131101",
+            "patientId" : "20579059-25ad-4463-a336-de9e11aad4c5",
+            "studyDate" : "20170524",
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
             "studyId" : "anonymized2"
         },
         {
+            "patientName" : "Anonymized2",
+            "patientId" : "20579059-25ad-4463-a336-de9e11aad4c5",
+            "studyDate" : "20170524",
+            "modality" : "MG",
+            "studyDescription" :"Mamografia",
+            "numImages" : 11322,
+            "studyId" : "anonymized2"
+        },
+        {
             "patientName" : "Anonymized3",
-            "patientId" : "d563e9fc-72df-42e6-ab50-ff1515bc791f",
-            "studyDate" : "20161205",
+            "patientId" : "b9806a75-0196-4620-b19a-417915a39b48",
+            "studyDate" : "20170121",
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
             "studyId" : "anonymized3"
         },
         {
+            "patientName" : "Anonymized3",
+            "patientId" : "b9806a75-0196-4620-b19a-417915a39b48",
+            "studyDate" : "20170524",
+            "modality" : "MG",
+            "studyDescription" :"Mamografia",
+            "numImages" : 5664,
+            "studyId" : "anonymized3"
+        },
+        {
             "patientName" : "Anonymized4",
-            "patientId" : "e7ffff23-f352-48d2-9dd6-c9ed52842c5e",
-            "studyDate" : "20160216",
+            "patientId" : "ba5a147d-29fc-4419-a240-98c888256f62",
+            "studyDate" : "20131101",
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
             "studyId" : "anonymized4"
         },
         {
-            "patientName" : "Anonymized5",
-            "patientId" : "6de736f1-6dba-4d72-b36a-70986517c625",
-            "studyDate" : "20170621",
-            "modality" : "US",
-            "studyDescription" :"Breast",
-            "numImages" : 1,
-            "studyId" : "anonymized5"
-        },
-        {
-            "patientName" : "Anonymized6",
-            "patientId" : "17997368-e8fe-425e-aff8-f2a89c8ab027",
-            "studyDate" : "20170524",
-            "modality" : "US",
-            "studyDescription" :"Breast",
-            "numImages" : 1,
-            "studyId" : "anonymized6"
-        },
-        {
-            "patientName" : "Anonymized7",
-            "patientId" : "bbfc6394-07ca-4947-914b-cb5365d39424",
-            "studyDate" : "20170524",
-            "modality" : "US",
-            "studyDescription" :"Breast",
-            "numImages" : 1,
-            "studyId" : "anonymized7"
+            "patientName" : "Anonymized4",
+            "patientId" : "ba5a147d-29fc-4419-a240-98c888256f62",
+            "studyDate" : "20131101",
+            "modality" : "MG",
+            "studyDescription" :"ROUTINE MAMMOGRAPHY",
+            "numImages" : 10,
+            "studyId" : "anonymized4"
         }
     ]
 }

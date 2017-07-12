@@ -1,17 +1,38 @@
 {
     "patientName" : "Anonymized1",
-    "patientId" : "34cd0db6-6cb6-42a4-8fa6-476b6c61e9da",
-    "studyDate" : "20131101",
-    "modality" : "US",
-    "studyDescription" :"Breast",
-    "numImages" : 1,
+    "patientId" : "83d246ef-00f9-40bd-a432-6e3c15c81e84",
+    "studyDate" : "20170127",
+    "modality" : "MG",
+    "studyDescription" :"Screening-Bilateral Mammography",
+    "numImages" : 10,
     "studyId" : "anonymized1",
     "seriesList" : [
         {
-            "seriesDescription": "US",
+            "seriesDescription": "L CC",
+            "seriesNumber" : "2",
+            "instanceList" : [
+                {"imageId" : "5d9a3b32-59592244-d074528f-2837804b-c679cbf0/file"}
+            ]
+        },
+        {
+            "seriesDescription": "R MLO",
+            "seriesNumber" : "4",
+            "instanceList" : [
+                {"imageId" : "dd41520a-8313b1ba-86d65220-c56838de-fad1db6d/file"}
+            ]
+        },
+        {
+            "seriesDescription": "L MLO",
+            "seriesNumber" : "3",
+            "instanceList" : [
+                {"imageId" : "731b66f2-ad8fa90e-9c963168-35d7754b-a0b1cd05/file"}
+            ]
+        },
+        {
+            "seriesDescription": "R CC",
             "seriesNumber" : "1",
             "instanceList" : [
-                {"imageId" : "02972c8e-8ca0d18f-1d05998d-96f73ba5-eb3d9aa3/file"}
+                {"imageId" : "90c77eb8-50c7cbc9-969553b8-47cb4963-ef648ddb/file"}
             ]
         }
     ]
