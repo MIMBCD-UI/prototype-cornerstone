@@ -1,12 +1,19 @@
 {
-    "patientName" : "Anonymized3_MG",
+    "patientName" : "Anonymized3",
     "patientId" : "b9806a75-0196-4620-b19a-417915a39b48",
-    "studyDate" : "20170524",
-    "modality" : "MG",
-    "studyDescription" :"Mamografia",
-    "numImages" : 5664,
-    "studyId" : "anonymized3_mg",
+    "studyDate" : "20170121^20170524",
+    "modality" : "US",
+    "studyDescription" :"Breast^Mamografia",
+    "numImages" : 5665,
+    "studyId" : "anonymized3",
     "seriesList" : [
+        {
+            "seriesDescription": "US",
+            "seriesNumber" : "1",
+            "instanceList" : [
+                {"imageId" : "9726d026-eafae646-29d6ecf9-10d7e469-37ae3744/file"}
+            ]
+        },
         {
             "seriesDescription": "MG",
             "seriesNumber" : "1",
