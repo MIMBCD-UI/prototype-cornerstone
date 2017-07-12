@@ -5,7 +5,7 @@
     "modality" : "MG",
     "studyDescription" :"ROUTINE MAMMOGRAPHY",
     "numImages" : 10,
-    "studyId" : "anonymized4",
+    "studyId" : "anonymized4_mg",
     "seriesList" : [
         {
             "seriesDescription": "MLO",

@@ -5,7 +5,7 @@
     "modality" : "MG",
     "studyDescription" :"Mamografia",
     "numImages" : 5664,
-    "studyId" : "anonymized3",
+    "studyId" : "anonymized3_mg",
     "seriesList" : [
         {
             "seriesDescription": "MG",

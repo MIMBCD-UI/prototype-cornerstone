@@ -5,7 +5,7 @@
     "modality" : "US",
     "studyDescription" :"Breast",
     "numImages" : 1,
-    "studyId" : "anonymized2",
+    "studyId" : "anonymized2_us",
     "seriesList" : [
         {
             "seriesDescription": "US",
