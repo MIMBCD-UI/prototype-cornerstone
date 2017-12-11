@@ -1,0 +1,19 @@
+{
+    "patientName" : "Anonymized5",
+    "patientId" : "ef05fc61-700f-4f2c-a00e-48cea2443063",
+    "studyDate" : "20160210",
+    "modality" : "US^MG",
+    "studyDescription" :"Breast^Mamografia",
+    "numImages" : 10,
+    "studyId" : "anonymized5",
+    "seriesList" : [
+        {
+            "seriesDescription": "US",
+            "seriesNumber" : "2",
+            "instanceList" : [
+                {"imageId" : "f18b03fd-3bc0b5aa-447dcfc2-d093eb81-11f2eb8f/file"},
+                {"imageId" : "22965267-555693ce-7e933d9b-e6c96858-aa2c52a4/file"}
+            ]
+        }
+    ]
+}
