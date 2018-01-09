@@ -1,0 +1,97 @@
+Orthanc - A Lightweight, RESTful DICOM Server
+=============================================
+
+
+General Information
+-------------------
+
+General information about this software can be found on its official
+Website:
+http://www.orthanc-server.com/
+
+The instructions for running OSX Orthanc version can be found in the [README](orthancAndPluginsOSX.stable/README.md) file.
+
+
+Supported Platforms
+-------------------
+
+Currently, the officially supported platforms are:
+
+* GNU/Linux (32bit and 64bit).
+* Windows 32bit.
+* Apple OS X (32bit and 64bit).
+
+
+Supported Toolchains
+--------------------
+
+Orthanc can currently be built using the following compiling
+toolchains:
+
+* Native GNU/Linux compilation, with gcc.
+* Native Windows compilation, with Microsoft Visual Studio.
+* Cross-compilation for Windows under GNU/Linux, with MinGW.
+
+
+Licensing
+---------
+
+Orthanc is licensed under the GPLv3 license, with the OpenSSL
+exception:
+http://people.gnome.org/~markmc/openssl-and-the-gpl.html
+
+We also kindly ask scientific works and clinical studies that make
+use of Orthanc to cite Orthanc in their associated publications.
+Similarly, we ask open-source and closed-source products that make
+use of Orthanc to warn us about this use. You can cite our work
+using the following BibTeX entry:
+
+```
+@inproceedings{Jodogne:ISBI2013,
+  author = {Jodogne, S. and Bernard, C. and Devillers, M. and Lenaerts, E. and Coucke, P.},
+  title = {Orthanc -- {A} Lightweight, {REST}ful {DICOM} Server for Healthcare and Medical Research},
+  booktitle={Biomedical Imaging ({ISBI}), {IEEE} 10th International Symposium on},
+  year={2013},
+  pages={190-193},
+  ISSN={1945-7928},
+  month=apr,
+  url={http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6556444},
+  address={San Francisco, {CA}, {USA}}
+}
+```
+
+
+Licensing of special directories
+--------------------------------
+
+The following directories have separate licensing terms:
+
+* The file of the "Core/SQLite/" directory are licensed under the
+  3-clause BSD license, as they are derived from the Chromium project.
+
+
+Content
+-------
+
+This archive contains the following directories:
+
+* Core/               - The core C++ classes (independent of DCMTK)
+* OrthancExplorer/    - Code of the Web application (HTML5/Javascript)
+* OrthancServer/      - Code of the Orthanc server (depends on DCMTK)
+* Plugins/            - Code of the plugin framework
+* Resources/          - Scripts, resources for building third-party code
+* UnitTestsSources/   - Unit tests
+
+This archive contains the following files:
+
+* AUTHORS             - The list of the authors
+* CMakeLists.txt      - The main build script
+* COPYING             - The GPLv3 license
+* INSTALL             - How to build Orthanc
+* README              - This file
+* THANKS              - The list of the contributors
+* NEWS                - The history of main changes between versions
+
+We have decided not to maintain a separate "ChangeLog" file. Each
+commit to the official Orthanc Mercurial repository should be
+associated with a description of the changes.
