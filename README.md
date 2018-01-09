@@ -12,7 +12,9 @@ This project needs both [`npm`](https://www.npmjs.com/) and [`http-server`](http
 
 `cd dicom-server/orthancAndPluginsOSX.stable/`
 
-2) Double click and run the file `startOrthanc.command`.
+2) Double click and run the file:
+
+`./startOrthanc.command`
 
 3) Open the link:
 
