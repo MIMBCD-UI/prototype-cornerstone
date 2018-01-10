@@ -28,7 +28,7 @@ If you need some help see the [Demo](https://youtu.be/tkzpT3KpY2A).
 
 5) Run the code:
 
-`node node_modules/http-server/bin/http-server`
+`npm start`
 
 6) Open the link:
 
