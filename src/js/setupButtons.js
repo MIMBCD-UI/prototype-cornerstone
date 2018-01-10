@@ -73,6 +73,25 @@ function setupButtons(studyViewer) {
         });
     });
 
+    // JSON save
+    $(buttons[8]).on('click touchstart', function() {
+        disableAllTools();
+        forEachViewport(function(element) {
+            var toolData = cornerstoneTools.getToolState(element, 'freehand')
+            if (toolData === undefined) {
+                return;
+            }
+
+            var stack = studyViewer.roiData.stacks[studyViewer.roiData.currentStack];
+            stack.freehand = toolData.data;
+
+            console.log(studyViewer.roiData)
+
+            // save json
+            download(studyViewer.roiData, 'test.json', 'application/octet-stream');
+        });
+    });
+
     // Tooltips
     $(buttons[0]).tooltip();
     $(buttons[1]).tooltip();
@@ -81,5 +100,21 @@ function setupButtons(studyViewer) {
     $(buttons[4]).tooltip();
     $(buttons[5]).tooltip();
     $(buttons[7]).tooltip();
+    $(buttons[8]).tooltip();
 
+    function download(data, name, type) {
+        var link = document.createElement("a");
+        var data = encode( JSON.stringify(data, null, 4) );
+        var blob = new Blob( [ data ], {
+            type: 'application/octet-stream'
+        });
+        var url = new Blob([text], {type: type});
+
+        link.setAttribute( 'href', url );
+        link.setAttribute( 'download', name );
+
+        var event = document.createEvent( 'MouseEvents' );
+        event.initMouseEvent( 'click', true, true, window, 1, 0, 0, 0, 0, false, false, false, false, 0, null);
+        link.dispatchEvent( event );
+    }
 };

@@ -55,6 +55,12 @@ $.getJSON('studyList.json', function(data) {
         $(window).trigger('resize');
       });
 
+      studyViewerCopy.roiData = {
+        studyId: study.studyId,
+        modality: study.modality,
+        stacks: [],
+      };
+
       // Now load the study.json
       loadStudy(studyViewerCopy, viewportTemplate, study.studyId + ".json");
     });

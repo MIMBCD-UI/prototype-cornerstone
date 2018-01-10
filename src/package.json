@@ -1,5 +1,5 @@
 {
-  "name": "mimbcd-uiDemo",
+  "name": "prototype-cornerstone",
   "version": "0.1.0",
   "description": "MIMBCD-UI Demo",
   "keywords": [
@@ -10,11 +10,11 @@
     "imaging"
   ],
   "author": "Francisco Maria Calisto",
-  "homepage": "https://github.com/chafey/cornerstoneDemo",
+  "homepage": "https://github.com/MIMBCD-UI/prototype-cornerstone",
   "licnense": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chafey/cornerstoneDemo.git"
+    "url": "https://github.com/MIMBCD-UI/prototype-cornerstone"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

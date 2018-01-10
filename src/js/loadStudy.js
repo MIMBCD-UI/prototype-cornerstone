@@ -74,6 +74,7 @@ function loadStudy(studyViewer, viewportModel, studyId) {
                         //imageId = "dicomweb://cornerstonetech.org/images/ClearCanvas/" + imageId;
                         imageId = "dicomweb://localhost:8042/instances/" + imageId;
                         console.log("DICOM ID: ", imageId);
+                        studyViewer.roiData.dicom_id = imageId;
                     }
                     stack.imageIds.push(imageId);
                 }
@@ -95,6 +96,7 @@ function loadStudy(studyViewer, viewportModel, studyId) {
 
             // Add the series stack to the stacks array
             imageViewer.stacks.push(stack);
+            studyViewer.roiData.stacks.push(stack);
         });
 
         // Resize the parent div of the viewport to fit the screen
@@ -163,6 +165,7 @@ function loadStudy(studyViewer, viewportModel, studyId) {
         });
 
         function useItemStack(item, stack) {
+            studyViewer.roiData.currentStack = stack;
             var imageId = imageViewer.stacks[stack].imageIds[0], element = imageViewer.getElement(item);
             if ($(element).data('waiting')) {
                 imageViewer.viewports[item].find('.overlay-text').remove();
