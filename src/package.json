@@ -11,7 +11,7 @@
   ],
   "author": "Francisco Maria Calisto",
   "homepage": "https://github.com/MIMBCD-UI/prototype-cornerstone",
-  "licnense": "MIT",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/MIMBCD-UI/prototype-cornerstone"
@@ -32,6 +32,7 @@
     "load-grunt-tasks": "^0.2.1"
   },
   "dependencies": {
+    "grunt": "^0.4.5",
     "http-server": "^0.9.0"
   }
 }
