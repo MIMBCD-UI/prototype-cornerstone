@@ -67,14 +67,14 @@ function setupButtons(studyViewer) {
     });
 
     // Freehand ROI draw
-    $(buttons[7]).on('click touchstart', function() {
+    $(buttons[6]).on('click touchstart', function() {
         forEachViewport(function(element) {
             cornerstoneTools.freehand.activate(element, 1);
         });
     });
 
-    // JSON save
-    $(buttons[8]).on('click touchstart', function() {
+    // JSON Save Button
+    $(buttons[7]).on('click touchstart', function() {
         disableAllTools();
         forEachViewport(function(element) {
             var toolData = cornerstoneTools.getToolState(element, 'freehand')
@@ -111,7 +111,7 @@ function setupButtons(studyViewer) {
             type: 'application/octet-stream'
         });
         */
-        var url = new Blob([JSON.stringify({a: '1'}, null, 4)], {type: type});
+        var url = URL.createObjectURL(new Blob([JSON.stringify({a: '1'}, null, 4)], {type: type}));
 
         link.setAttribute( 'href', url );
         link.setAttribute( 'download', name );
@@ -121,3 +121,8 @@ function setupButtons(studyViewer) {
         link.dispatchEvent( event );
     }
 };
+
+
+
+
+
