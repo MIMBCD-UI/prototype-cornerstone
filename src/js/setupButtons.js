@@ -104,14 +104,12 @@ function setupButtons(studyViewer) {
 
     function download(data, name, type) {
         var link = document.createElement("a");
-        /*
-        : encode() function not defined in osx chome(?)
-        var data = encode( JSON.stringify(data, null, 4) );
+        // encode() function not defined in osx chome(?)
+        var data = encode(JSON.stringify(data, null, 4));
         var blob = new Blob( [ data ], {
             type: 'application/octet-stream'
         });
-        */
-        var url = URL.createObjectURL(new Blob([JSON.stringify({a: '1'}, null, 4)], {type: type}));
+        var url = URL.createObjectURL(blob, {type: type});
 
         link.setAttribute( 'href', url );
         link.setAttribute( 'download', name );
