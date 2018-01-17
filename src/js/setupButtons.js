@@ -114,7 +114,23 @@ function setupButtons(studyViewer) {
         link.setAttribute('download', name);
 
         var event = document.createEvent('MouseEvents');
-        event.initMouseEvent('click', true, true, window, 1, 0, 0, 0, 0, false, false, false, false, 0, null);
+        event.initMouseEvent(
+            'click',
+            true,
+            true,
+            window,
+            1,
+            0,
+            0,
+            0,
+            0,
+            false,
+            false,
+            false,
+            false,
+            0,
+            null
+        );
         link.dispatchEvent(event);
     }
 };
