@@ -105,18 +105,20 @@ function setupButtons(studyViewer) {
     function download(data, name, type) {
         var link = document.createElement("a");
         // encode() function not defined in osx chome(?)
-        var data = encode(JSON.stringify(data, null, 4));
-        var blob = new Blob( [ data ], {
+        /*var data = encode(JSON.stringify(data, null, 4));
+        var blob = new Blob([data], {
             type: 'application/octet-stream'
         });
-        var url = URL.createObjectURL(blob, {type: type});
+        var url = URL.createObjectURL(blob, {type: type});*/
 
-        link.setAttribute( 'href', url );
-        link.setAttribute( 'download', name );
+        var url = URL.createObjectURL(new Blob([JSON.stringify(data, null, 4)], {type: type}));
 
-        var event = document.createEvent( 'MouseEvents' );
-        event.initMouseEvent( 'click', true, true, window, 1, 0, 0, 0, 0, false, false, false, false, 0, null);
-        link.dispatchEvent( event );
+        link.setAttribute('href', url);
+        link.setAttribute('download', name);
+
+        var event = document.createEvent('MouseEvents');
+        event.initMouseEvent('click', true, true, window, 1, 0, 0, 0, 0, false, false, false, false, 0, null);
+        link.dispatchEvent(event);
     }
 };
 
