@@ -47,3 +47,43 @@ Access-Control-Allow-Origin is a [CORS (Cross-Origin Resource Sharing) header](h
 `open /Applications/Google\ Chrome.app --args --disable-web-security --user-data-dir`
 
 * Or install the  [CORS](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) plugin for [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/).
+
+## TODO
+
+`http://localhost:8042/app/explorer.html`
+
+`http://localhost:8042/instances/`
+
+```
+[
+   "26eb8b88-ff7afef9-e4d3ef85-5fbe799c-3082da71",
+   "adf49420-c035cd33-64053e3c-fad3de69-ac9cead4",
+   "0e7c5fac-ef55ae7c-ec56e356-74ac42c2-f4f2a32a",
+   "89f90986-52a79581-81d5cfef-f0a594b3-f33df53c",
+   "3ea91193-d664157d-cdc5e876-fd2b7010-8b9f462f",
+   "fddde464-e57f3f55-fc5c0b82-5ee8ea9c-afa8acc4",
+   "7aae3a41-051f2909-3e1bc940-1b75e78a-55915f67",
+   "a1862117-6f30aebe-b104a727-59eb36c2-bf0f70c4"
+]
+```
+
+`http://localhost:8042/instances/26eb8b88-ff7afef9-e4d3ef85-5fbe799c-3082da71`
+
+```
+{
+   "AnonymizedFrom" : "2805874b-c3e7a807-e0ecd8ca-fc359751-5ab3b99b",
+   "FileSize" : 776288,
+   "FileUuid" : "E95F9AA0-B981-4566-A698-3EE5DA175979",
+   "ID" : "26eb8b88-ff7afef9-e4d3ef85-5fbe799c-3082da71",
+   "IndexInSeries" : 9,
+   "MainDicomTags" : {
+      "ImagePositionPatient" : "0\\0\\0",
+      "InstanceCreationDate" : "20170203",
+      "InstanceCreationTime" : "193629",
+      "InstanceNumber" : "9",
+      "SOPInstanceUID" : "1.2.276.0.7230010.3.1.4.0.895.1491844658.521379"
+   },
+   "ParentSeries" : "2cec964b-f70d3e7f-e44fb3cb-0ae31f0a-b1878b28",
+   "Type" : "Instance"
+}
+```
