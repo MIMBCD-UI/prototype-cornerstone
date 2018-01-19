@@ -44,7 +44,9 @@ Access-Control-Allow-Origin is a [CORS (Cross-Origin Resource Sharing) header](h
 
 * To deal with the CORS issue it is necessary to open [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/) with `--disable-web-security` flag on:
 
-`open /Applications/Google\ Chrome.app --args --disable-web-security --user-data-dir`
+```
+open /Applications/Google\ Chrome.app --args --disable-web-security --user-data-dir
+```
 
 * Or install the  [CORS](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) plugin for [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/).
 
