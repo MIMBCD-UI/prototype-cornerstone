@@ -35,3 +35,11 @@ If you need some help see the [Demo](https://youtu.be/tkzpT3KpY2A).
 6) Open the link:
 
 `localhost:8080`
+
+#### Allow-Control-Allow-Origin
+
+##### Google Chrome
+
+[CORS](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
+
+`open /Applications/Google\ Chrome.app --args --disable-web-security --user-data-dir`
