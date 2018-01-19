@@ -54,7 +54,7 @@ Access-Control-Allow-Origin is a [CORS (Cross-Origin Resource Sharing) header](h
 
 ### Patients
 
-`http://localhost:8042/patients`
+`http://localhost:8042/patients/`
 
 ```
 [
@@ -62,6 +62,25 @@ Access-Control-Allow-Origin is a [CORS (Cross-Origin Resource Sharing) header](h
    "22613b84-c8ac2476-60023fb3-a589a865-e07265c2",
    "355f107e-f63fb80f-949cf4e1-8af52885-ba7dc4e2"
 ]
+```
+
+#### Example
+
+`http://localhost:8042/patients/59987d63-6e64998b-91d6bc45-dcc3fde7-7c7018d7`
+
+```
+{
+   "AnonymizedFrom" : "4f9445d5-9c8f7a2f-2ac9e380-5d6b9dad-2fd05a2c",
+   "ID" : "59987d63-6e64998b-91d6bc45-dcc3fde7-7c7018d7",
+   "IsStable" : true,
+   "LastUpdate" : "20170410T181738",
+   "MainDicomTags" : {
+      "PatientID" : "5A7A314A-B881-4BEF-91AA-73258CA96675",
+      "PatientName" : "Anonymized1"
+   },
+   "Studies" : [ "350d284e-96867187-900a834d-331e9a21-5649a6b3" ],
+   "Type" : "Patient"
+}
 ```
 
 ### Studies
@@ -77,9 +96,35 @@ Access-Control-Allow-Origin is a [CORS (Cross-Origin Resource Sharing) header](h
 ]
 ```
 
+#### Example
+
+`http://localhost:8042/studies/350d284e-96867187-900a834d-331e9a21-5649a6b3`
+
+```
+{
+   "AnonymizedFrom" : "c484df4a-c48eafaa-64da950a-f520cfbb-69261acd",
+   "ID" : "350d284e-96867187-900a834d-331e9a21-5649a6b3",
+   "IsStable" : true,
+   "LastUpdate" : "20170410T181738",
+   "MainDicomTags" : {
+      "StudyDate" : "20160216",
+      "StudyDescription" : "Breast",
+      "StudyInstanceUID" : "1.2.276.0.7230010.3.1.2.0.895.1491844658.521377",
+      "StudyTime" : "102005.281000"
+   },
+   "ParentPatient" : "59987d63-6e64998b-91d6bc45-dcc3fde7-7c7018d7",
+   "PatientMainDicomTags" : {
+      "PatientID" : "5A7A314A-B881-4BEF-91AA-73258CA96675",
+      "PatientName" : "Anonymized1"
+   },
+   "Series" : [ "2cec964b-f70d3e7f-e44fb3cb-0ae31f0a-b1878b28" ],
+   "Type" : "Study"
+}
+```
+
 ### Series
 
-`http://localhost:8042/series`
+`http://localhost:8042/series/`
 
 ```
 [
@@ -91,6 +136,30 @@ Access-Control-Allow-Origin is a [CORS (Cross-Origin Resource Sharing) header](h
    "75f6500b-53e966a9-f26e99a6-bf78ed76-274d6c80",
    "8cf516c1-bd9062ac-e95f5df7-7886fbe7-8b302621"
 ]
+```
+
+#### Example
+
+`http://localhost:8042/series/2cec964b-f70d3e7f-e44fb3cb-0ae31f0a-b1878b28`
+
+```
+{
+   "AnonymizedFrom" : "0bc055c6-3d71bebe-157c67f5-80177166-7d2d03bd",
+   "ExpectedNumberOfInstances" : null,
+   "ID" : "2cec964b-f70d3e7f-e44fb3cb-0ae31f0a-b1878b28",
+   "Instances" : [ "26eb8b88-ff7afef9-e4d3ef85-5fbe799c-3082da71" ],
+   "IsStable" : true,
+   "LastUpdate" : "20170410T181738",
+   "MainDicomTags" : {
+      "Manufacturer" : "TOSHIBA_MEC",
+      "Modality" : "US",
+      "SeriesInstanceUID" : "1.2.276.0.7230010.3.1.3.0.895.1491844658.521378",
+      "SeriesNumber" : "1"
+   },
+   "ParentStudy" : "350d284e-96867187-900a834d-331e9a21-5649a6b3",
+   "Status" : "Unknown",
+   "Type" : "Series"
+}
 ```
 
 ### Instances
@@ -108,4 +177,27 @@ Access-Control-Allow-Origin is a [CORS (Cross-Origin Resource Sharing) header](h
    "7aae3a41-051f2909-3e1bc940-1b75e78a-55915f67",
    "a1862117-6f30aebe-b104a727-59eb36c2-bf0f70c4"
 ]
+```
+
+#### Example
+
+`http://localhost:8042/instances/26eb8b88-ff7afef9-e4d3ef85-5fbe799c-3082da71`
+
+```
+{
+   "AnonymizedFrom" : "2805874b-c3e7a807-e0ecd8ca-fc359751-5ab3b99b",
+   "FileSize" : 776288,
+   "FileUuid" : "E95F9AA0-B981-4566-A698-3EE5DA175979",
+   "ID" : "26eb8b88-ff7afef9-e4d3ef85-5fbe799c-3082da71",
+   "IndexInSeries" : 9,
+   "MainDicomTags" : {
+      "ImagePositionPatient" : "0\\0\\0",
+      "InstanceCreationDate" : "20170203",
+      "InstanceCreationTime" : "193629",
+      "InstanceNumber" : "9",
+      "SOPInstanceUID" : "1.2.276.0.7230010.3.1.4.0.895.1491844658.521379"
+   },
+   "ParentSeries" : "2cec964b-f70d3e7f-e44fb3cb-0ae31f0a-b1878b28",
+   "Type" : "Instance"
+}
 ```
