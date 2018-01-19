@@ -38,8 +38,12 @@ If you need some help see the [Demo](https://youtu.be/tkzpT3KpY2A).
 
 #### Allow-Control-Allow-Origin
 
+To deal with the CORS issue it is necessary to open Google Chrome with `--disable-web-security` flag on.
+
 ##### Google Chrome
 
-[CORS](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
+To deal with the CORS issue it is necessary to open [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/) with `--disable-web-security` flag on:
 
 `open /Applications/Google\ Chrome.app --args --disable-web-security --user-data-dir`
+
+Or install the  [CORS](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) plugin for [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/).
