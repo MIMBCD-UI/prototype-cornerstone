@@ -48,8 +48,8 @@ function loadStudy(studyViewer, viewportModel, studyId) {
         });
 
         // Load the first series into the viewport (?)
-        //var stacks = [];
-        //var currentStackIndex = 0;
+        var stacks = [];
+        var currentStackIndex = 0;
         var seriesIndex = 0;
 
         // Create a stack object for each series
@@ -65,7 +65,8 @@ function loadStudy(studyViewer, viewportModel, studyId) {
 
 
             // Populate imageIds array with the imageIds from each series
-            // For series with frame information, get the image url's by requesting each frame
+            // For series with frame information, get the image url's
+            // by requesting each frame
             if (series.numberOfFrames !== undefined) {
                 var numberOfFrames = series.numberOfFrames;
                 for (var i = 0; i < numberOfFrames; i++) {

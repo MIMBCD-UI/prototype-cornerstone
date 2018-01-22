@@ -3,4 +3,6 @@ function fetchImagePatients() {
   .then(data => data.json())
 }
 
-console.log('Ola nina!');
+console.log('Fetch Image Patients: OK');
+
+console.log(fetchImagePatients());
