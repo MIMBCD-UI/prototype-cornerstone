@@ -18,6 +18,8 @@ This project needs both [`npm`](https://www.npmjs.com/) and [`http-server`](http
 
 `npm run dicom-server`
 
+OR
+
 ```
 cd ..
 cd dicom-server/orthancAndPluginsOSX.stable/
