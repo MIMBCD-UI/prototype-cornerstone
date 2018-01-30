@@ -18,6 +18,12 @@ This project needs both [`npm`](https://www.npmjs.com/) and [`http-server`](http
 
 `npm run dicom-server`
 
+```
+cd ..
+cd dicom-server/orthancAndPluginsOSX.stable/
+./startOrthanc.command
+```
+
 3) Open the link:
 
 `localhost:8042`
