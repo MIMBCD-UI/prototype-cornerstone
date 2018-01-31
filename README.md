@@ -66,7 +66,7 @@ For more information about the [MIMBCD-UI](https://mimbcd-ui.github.io/) Project
 
 Copyright © 2017 [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/)
 
-The [`prototype-cornerstone`](https://github.com/MIMBCD-UI/prototype-cornerstone) repository is distributed under the terms of both [Academic License](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/ACADEMIC.md) and [Commercial License](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/COMMERCIAL.md), for academic and commercial purpose, respectively. For more information regarding the [Licens](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/LICENSE.md) of the hereby repository, just follow both [ACADEMIC](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/ACADEMIC.md) and [COMMERCIAL](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/COMMERCIAL.md) links.
+The [`prototype-cornerstone`](https://github.com/MIMBCD-UI/prototype-cornerstone) repository is distributed under the terms of both [Academic License](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/ACADEMIC.md) and [Commercial License](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/COMMERCIAL.md), for academic and commercial purpose, respectively. For more information regarding the [License](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/LICENSE.md) of the hereby repository, just follow both [ACADEMIC](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/ACADEMIC.md) and [COMMERCIAL](https://github.com/MIMBCD-UI/prototype-cornerstone/blob/master/COMMERCIAL.md) links.
 
 ### Acknowledgments
 
