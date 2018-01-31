@@ -1,4 +1,4 @@
-Copyright © 2017 MIMBCD-UI
+Copyright © 2017 [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/)
 
 # License Summary
 
@@ -10,7 +10,7 @@ Copyright © 2017 MIMBCD-UI
 
 # MIMBCD-UI Prototype Cornerstone - Terms and conditions
 
-1. **Preamble**: This Agreement, signed on Jan 31, 2018 (hereinafter: Effective Date) governs the relationship between Licensee, a Business Entity, (hereinafter: Licensee) and MIMBCD-UI (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using MIMBCD-UI Prototype Cornerstone (hereinafter: The Software) created and owned by Licensor, as detailed herein.
+1. **Preamble**: This Agreement, signed on Jan 31, 2018 (hereinafter: Effective Date) governs the relationship between Licensee, a Business Entity, (hereinafter: Licensee) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/) (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using [MIMBCD-UI Prototype Cornerstone](https://github.com/MIMBCD-UI/prototype-cornerstone) (hereinafter: The Software) created and owned by Licensor, as detailed herein.
 
 2. **License Grant**: Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Pepetual, Non-commercial, Without the rights to create derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
 
