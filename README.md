@@ -70,6 +70,8 @@ The [`prototype-cornerstone`](https://github.com/MIMBCD-UI/prototype-cornerstone
 
 ### Acknowledgments
 
+- [Erik Ziegler]() ([]())
+
 - [Marcelo Ribeiro]() ([]())
 
-- [Erik Ziegler]() ([]())
+- [Sébastien Jodogne]() ([]())
