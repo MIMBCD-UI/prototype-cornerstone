@@ -80,6 +80,10 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
 
 - [Erik Ziegler](https://www.npmjs.com/~swederik) ([swederik](https://github.com/swederik))
 
+- [Jason Hostetter](http://www.jasonhostetter.com/)
+
 - [Marcelo Ribeiro](http://www.sysline.inf.br/) ([sysline](https://github.com/sysline))
 
 - [Sébastien Jodogne](https://www.linkedin.com/in/jodogne/) ([jodogne](https://github.com/jodogne))
+
+- [Steve Pieper](https://lmi.med.harvard.edu/people/steve-pieper)
