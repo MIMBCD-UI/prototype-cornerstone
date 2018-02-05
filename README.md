@@ -32,7 +32,7 @@ cd prototype-cornerstone/
 npm install
 ```
 
-2.2. You can now **Run** the project, just follow the next section.
+2.2. You can now **Run** the project, just follow the [next section](https://github.com/MIMBCD-UI/prototype-cornerstone#run).
 
 ### Run
 
