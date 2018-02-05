@@ -4,15 +4,41 @@
 
 [MIMBCD-UI](https://mimbcd-ui.github.io/) is a Research Project that deals with the use of a recently proposed technique in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network). These deep networks will incorporate information from several different modes by a User Interface (UI) implemented using the [Cornerstone Library](https://github.com/chafey/cornerstone). The [Cornerstone](https://github.com/chafey/cornerstone) is an Open Source Project with a goal to deliver a complete web based medical imaging platform.
 
-## Install and Run
+## Instructions
 
 First of all, you will need [NodeJS](https://github.com/MIMBCD-UI/prototype-cornerstone) installed locally on your machine. This project needs both [`npm`](https://www.npmjs.com/) and [`http-server`](https://github.com/indexzero/http-server) dependencies to install and run the core project. If you do not have those installed please follow the [`INSTALL`](src/INSTALL.md) instructions.
 
+### Clone
+
+The following assumes you will be using a [git](https://git-scm.com/) version control for this repository, storing thanks to [GitHub](https://github.com/). First, [Download](https://git-scm.com/downloads) and [Install](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) [git](https://git-scm.com/).
+
+1. Clone the project repository:
+
+```
+git clone git@github.com:MIMBCD-UI/prototype-cornerstone.git
+```
+
+2. Go to the project folder:
+
+```
+cd prototype-cornerstone/
+```
+
+### Install
+
+1. Install the local dependencies:
+
+```
+npm install
+```
+
+2. You can now **Run** the project, just follow the next section.
+
 ### Run
 
-1) Go to the Source folder:
+1) Inside the project folder:
 
-`cd src/`
+`cd prototype-cornerstone/`
 
 2) Start the DICOM Server (Orthanc) for [MacOS](https://www.orthanc-server.com/static.php?page=download-mac):
 
