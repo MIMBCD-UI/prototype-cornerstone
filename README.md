@@ -12,13 +12,13 @@ First of all, you will need [NodeJS](https://github.com/MIMBCD-UI/prototype-corn
 
 The following assumes you will be using a [git](https://git-scm.com/) version control for this repository, storing thanks to [GitHub](https://github.com/). First, [Download](https://git-scm.com/downloads) and [Install](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) [git](https://git-scm.com/).
 
-1. Clone the project repository:
+1.1. Clone the project repository:
 
 ```
 git clone git@github.com:MIMBCD-UI/prototype-cornerstone.git
 ```
 
-2. Go to the project folder:
+1.2. Go to the project folder:
 
 ```
 cd prototype-cornerstone/
@@ -26,21 +26,21 @@ cd prototype-cornerstone/
 
 ### Install
 
-1. Install the local dependencies:
+2.1. Install the local dependencies:
 
 ```
 npm install
 ```
 
-2. You can now **Run** the project, just follow the next section.
+2.2. You can now **Run** the project, just follow the next section.
 
 ### Run
 
-1) Inside the project folder:
+3.1. Inside the project folder:
 
 `cd prototype-cornerstone/`
 
-2) Start the DICOM Server (Orthanc) for [MacOS](https://www.orthanc-server.com/static.php?page=download-mac):
+3.2. Start the DICOM Server (Orthanc) for [MacOS](https://www.orthanc-server.com/static.php?page=download-mac):
 
 `npm run dicom-server`
 
@@ -55,23 +55,31 @@ cd dicom-server/orthancAndPluginsOSX.stable/
 **NOTE**: If you are not using [MacOS](https://www.orthanc-server.com/static.php?page=download-mac), for instance, if you are using [Windows](https://www.orthanc-server.com/download-windows.php) or [Debian](https://packages.debian.org/search?keywords=orthanc&searchon=names&exact=1&suite=all&section=all) you have a [documentation](https://www.orthanc-server.com/static.php?page=documentation) for that. Just follow the [Windows](https://www.orthanc-server.com/resources/2015-02-09-emsy-tutorial/index.html) or [Debian](https://packages.debian.org/sid/orthanc) documentations. You also have several [other options](https://www.orthanc-server.com/download.php).
 
 
-3) Open the link:
+3.3. Open the link:
 
-`localhost:8042`
+```
+localhost:8042
+```
 
 NOTE: If you need some help see the [Demo](https://youtu.be/tkzpT3KpY2A).
 
-4) Go inside the code folder:
+3.4. Inside the project folder:
 
-`cd src/`
+```
+cd prototype-cornerstone/
+```
 
-5) Run the code:
+3.5. Run the code:
 
-`npm start`
+```
+npm start
+```
 
-6) Open the link:
+3.6. Open the link:
 
-`localhost:8080`
+```
+localhost:8080
+```
 
 #### Allow-Control-Allow-Origin
 
