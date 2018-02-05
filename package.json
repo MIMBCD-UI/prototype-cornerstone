@@ -1,7 +1,7 @@
 {
   "name": "prototype-cornerstone",
   "version": "0.1.0",
-  "description": "MIMBCD-UI Demo",
+  "description": "MIMBCD-UI Prototype Cornerstone",
   "keywords": [
     "DICOM",
     "WADO",
@@ -18,8 +18,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cd src npm install",
     "start": "node node_modules/http-server/bin/http-server &",
-    "dicom-server": "cd .. && ./dicom-server/orthancAndPluginsOSX.stable/startOrthanc.command &"
+    "dicom-server": "./dicom-server/orthancAndPluginsOSX.stable/startOrthanc.command &"
   },
   "devDependencies": {
     "browserify": "^14.3.0",
