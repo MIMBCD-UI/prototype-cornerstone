@@ -13,7 +13,7 @@
             "patientName" : "Anonymized2",
             "patientId" : "9AF6DD70-51D7-457E-AF53-30CCDC5D7126",
             "studyDate" : "20131101",
-            "modality" : "US",
+            "modality" : "Multi.",
             "studyDescription" :"Breast",
             "numImages" : 6,
             "studyId" : "usmgbreaststudy"
@@ -26,6 +26,24 @@
             "studyDescription" :"Breast",
             "numImages" : 1,
             "studyId" : "us2breaststudy"
+        },
+        {
+            "patientName" : "Anonymized7",
+            "patientId" : "A65E5A90-8849-4875-BC93-4AC03FD4DB68",
+            "studyDate" : "20110101",
+            "modality" : "Multi.",
+            "studyDescription" :"Knee",
+            "numImages" : 2,
+            "studyId" : "multikneestudy"
+        },
+        {
+            "patientName" : "Anonymized10",
+            "patientId" : "93F0528D-3891-45B0-80CC-BB728C20F8FC",
+            "studyDate" : "20030505",
+            "modality" : "CT",
+            "studyDescription" :"Head",
+            "numImages" : 1,
+            "studyId" : "ctheadstudy"
         }
     ]
 }

@@ -3,7 +3,7 @@
     "patientId" : "5A7A314A-B881-4BEF-91AA-73258CA96675",
     "studyDate" : "20160216",
     "modality" : "US",
-    "studyDescription" :"Breast",
+    "studyDescription" : "Breast",
     "numImages" : 1,
     "studyId" : "usbreaststudy",
     "seriesList" : [

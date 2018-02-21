@@ -1,0 +1,242 @@
+{
+   "0002,0003" : {
+      "Name" : "MediaStorageSOPInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.276.0.7230010.3.1.4.0.3624.1519241003.906511"
+   },
+   "0008,0008" : {
+      "Name" : "ImageType",
+      "Type" : "String",
+      "Value" : "DERIVED\\SECONDARY"
+   },
+   "0008,0012" : {
+      "Name" : "InstanceCreationDate",
+      "Type" : "String",
+      "Value" : "20030402"
+   },
+   "0008,0013" : {
+      "Name" : "InstanceCreationTime",
+      "Type" : "String",
+      "Value" : "095251.969"
+   },
+   "0008,0016" : {
+      "Name" : "SOPClassUID",
+      "Type" : "String",
+      "Value" : "1.2.840.10008.5.1.4.1.1.7"
+   },
+   "0008,0018" : {
+      "Name" : "SOPInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.276.0.7230010.3.1.4.0.3624.1519241003.906511"
+   },
+   "0008,0020" : {
+      "Name" : "StudyDate",
+      "Type" : "String",
+      "Value" : "20010101"
+   },
+   "0008,0023" : {
+      "Name" : "ContentDate",
+      "Type" : "String",
+      "Value" : "20010101"
+   },
+   "0008,0030" : {
+      "Name" : "StudyTime",
+      "Type" : "String",
+      "Value" : "000000"
+   },
+   "0008,0033" : {
+      "Name" : "ContentTime",
+      "Type" : "String",
+      "Value" : "005530.969"
+   },
+   "0008,0060" : {
+      "Name" : "Modality",
+      "Type" : "String",
+      "Value" : "OT"
+   },
+   "0008,0064" : {
+      "Name" : "ConversionType",
+      "Type" : "String",
+      "Value" : "WSD"
+   },
+   "0008,0070" : {
+      "Name" : "Manufacturer",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0008,0201" : {
+      "Name" : "TimezoneOffsetFromUTC",
+      "Type" : "String",
+      "Value" : "+0000"
+   },
+   "0008,1030" : {
+      "Name" : "StudyDescription",
+      "Type" : "String",
+      "Value" : "Lower Extremity^Knee"
+   },
+   "0008,103e" : {
+      "Name" : "SeriesDescription",
+      "Type" : "String",
+      "Value" : "MONTAGE"
+   },
+   "0008,1090" : {
+      "Name" : "ManufacturerModelName",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0010,0010" : {
+      "Name" : "PatientName",
+      "Type" : "String",
+      "Value" : "Anonymized7"
+   },
+   "0010,0020" : {
+      "Name" : "PatientID",
+      "Type" : "String",
+      "Value" : "A65E5A90-8849-4875-BC93-4AC03FD4DB68"
+   },
+   "0012,0062" : {
+      "Name" : "PatientIdentityRemoved",
+      "Type" : "String",
+      "Value" : "YES"
+   },
+   "0012,0063" : {
+      "Name" : "DeidentificationMethod",
+      "Type" : "String",
+      "Value" : "dcanon; Burned in text blacked out"
+   },
+   "0018,1010" : {
+      "Name" : "SecondaryCaptureDeviceID",
+      "Type" : "String",
+      "Value" : "3_92"
+   },
+   "0018,1012" : {
+      "Name" : "DateOfSecondaryCapture",
+      "Type" : "String",
+      "Value" : "20010101"
+   },
+   "0018,1014" : {
+      "Name" : "TimeOfSecondaryCapture",
+      "Type" : "String",
+      "Value" : "005530.969"
+   },
+   "0018,1016" : {
+      "Name" : "SecondaryCaptureDeviceManufacturer",
+      "Type" : "String",
+      "Value" : "DR Systems, Inc."
+   },
+   "0018,1018" : {
+      "Name" : "SecondaryCaptureDeviceManufacturerModelName",
+      "Type" : "String",
+      "Value" : "Dominator"
+   },
+   "0018,1019" : {
+      "Name" : "SecondaryCaptureDeviceSoftwareVersions",
+      "Type" : "String",
+      "Value" : "6.1B64D16"
+   },
+   "0018,1020" : {
+      "Name" : "SoftwareVersions",
+      "Type" : "String",
+      "Value" : "syngo MR 2002B 4VA21A"
+   },
+   "0020,000d" : {
+      "Name" : "StudyInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.276.0.7230010.3.1.2.0.3624.1519241003.906509"
+   },
+   "0020,000e" : {
+      "Name" : "SeriesInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.276.0.7230010.3.1.3.0.3624.1519241003.906510"
+   },
+   "0020,0011" : {
+      "Name" : "SeriesNumber",
+      "Type" : "String",
+      "Value" : "999999"
+   },
+   "0020,0013" : {
+      "Name" : "InstanceNumber",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0020,0020" : {
+      "Name" : "PatientOrientation",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0028,0002" : {
+      "Name" : "SamplesPerPixel",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0028,0004" : {
+      "Name" : "PhotometricInterpretation",
+      "Type" : "String",
+      "Value" : "MONOCHROME2"
+   },
+   "0028,0008" : {
+      "Name" : "NumberOfFrames",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0028,0010" : {
+      "Name" : "Rows",
+      "Type" : "String",
+      "Value" : "1560"
+   },
+   "0028,0011" : {
+      "Name" : "Columns",
+      "Type" : "String",
+      "Value" : "1062"
+   },
+   "0028,0100" : {
+      "Name" : "BitsAllocated",
+      "Type" : "String",
+      "Value" : "8"
+   },
+   "0028,0101" : {
+      "Name" : "BitsStored",
+      "Type" : "String",
+      "Value" : "8"
+   },
+   "0028,0102" : {
+      "Name" : "HighBit",
+      "Type" : "String",
+      "Value" : "7"
+   },
+   "0028,0103" : {
+      "Name" : "PixelRepresentation",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0028,0301" : {
+      "Name" : "BurnedInAnnotation",
+      "Type" : "String",
+      "Value" : "NO"
+   },
+   "0028,1050" : {
+      "Name" : "WindowCenter",
+      "Type" : "String",
+      "Value" : "128"
+   },
+   "0028,1051" : {
+      "Name" : "WindowWidth",
+      "Type" : "String",
+      "Value" : "256"
+   },
+   "0028,2110" : {
+      "Name" : "LossyImageCompression",
+      "Type" : "String",
+      "Value" : "01"
+   },
+   "0028,2112" : {
+      "Name" : "LossyImageCompressionRatio",
+      "Type" : "String",
+      "Value" : "4"
+   },
+   "7fe0,0010" : {
+      "Name" : "PixelData",
+      "Type" : "Null",
+      "Value" : null
+   }
+}

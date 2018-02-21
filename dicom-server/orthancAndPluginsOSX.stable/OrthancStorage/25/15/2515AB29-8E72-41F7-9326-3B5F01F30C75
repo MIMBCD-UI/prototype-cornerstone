@@ -1,0 +1,312 @@
+{
+   "0002,0003" : {
+      "Name" : "MediaStorageSOPInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.276.0.7230010.3.1.4.0.3624.1519243015.906538"
+   },
+   "0008,0008" : {
+      "Name" : "ImageType",
+      "Type" : "String",
+      "Value" : "ORIGINAL\\PRIMARY\\LOCALIZER"
+   },
+   "0008,0012" : {
+      "Name" : "InstanceCreationDate",
+      "Type" : "String",
+      "Value" : "20030505"
+   },
+   "0008,0013" : {
+      "Name" : "InstanceCreationTime",
+      "Type" : "String",
+      "Value" : "014919"
+   },
+   "0008,0016" : {
+      "Name" : "SOPClassUID",
+      "Type" : "String",
+      "Value" : "1.2.840.10008.5.1.4.1.1.2"
+   },
+   "0008,0018" : {
+      "Name" : "SOPInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.276.0.7230010.3.1.4.0.3624.1519243015.906538"
+   },
+   "0008,0020" : {
+      "Name" : "StudyDate",
+      "Type" : "String",
+      "Value" : "20030505"
+   },
+   "0008,0022" : {
+      "Name" : "AcquisitionDate",
+      "Type" : "String",
+      "Value" : "20030505"
+   },
+   "0008,0023" : {
+      "Name" : "ContentDate",
+      "Type" : "String",
+      "Value" : "20030505"
+   },
+   "0008,0030" : {
+      "Name" : "StudyTime",
+      "Type" : "String",
+      "Value" : "014852"
+   },
+   "0008,0032" : {
+      "Name" : "AcquisitionTime",
+      "Type" : "String",
+      "Value" : "014916"
+   },
+   "0008,0033" : {
+      "Name" : "ContentTime",
+      "Type" : "String",
+      "Value" : "014916"
+   },
+   "0008,0060" : {
+      "Name" : "Modality",
+      "Type" : "String",
+      "Value" : "CT"
+   },
+   "0008,0070" : {
+      "Name" : "Manufacturer",
+      "Type" : "String",
+      "Value" : "Philips"
+   },
+   "0008,0201" : {
+      "Name" : "TimezoneOffsetFromUTC",
+      "Type" : "String",
+      "Value" : "+0000"
+   },
+   "0008,1030" : {
+      "Name" : "StudyDescription",
+      "Type" : "String",
+      "Value" : "CT HEAD"
+   },
+   "0008,103e" : {
+      "Name" : "SeriesDescription",
+      "Type" : "String",
+      "Value" : "SURVIEW"
+   },
+   "0008,1090" : {
+      "Name" : "ManufacturerModelName",
+      "Type" : "String",
+      "Value" : "Brilliance 64"
+   },
+   "0010,0010" : {
+      "Name" : "PatientName",
+      "Type" : "String",
+      "Value" : "Anonymized10"
+   },
+   "0010,0020" : {
+      "Name" : "PatientID",
+      "Type" : "String",
+      "Value" : "93F0528D-3891-45B0-80CC-BB728C20F8FC"
+   },
+   "0012,0062" : {
+      "Name" : "PatientIdentityRemoved",
+      "Type" : "String",
+      "Value" : "YES"
+   },
+   "0012,0063" : {
+      "Name" : "DeidentificationMethod",
+      "Type" : "String",
+      "Value" : "dcanon\\no identifiers\\keep descriptions\\keep manufacturer\\keep retired\\keep private\\no uids\\keep pet demographics\\keep dates\\dcdtchg change dates"
+   },
+   "0018,0022" : {
+      "Name" : "ScanOptions",
+      "Type" : "String",
+      "Value" : "SURVIEW"
+   },
+   "0018,0050" : {
+      "Name" : "SliceThickness",
+      "Type" : "String",
+      "Value" : "0.625"
+   },
+   "0018,0060" : {
+      "Name" : "KVP",
+      "Type" : "String",
+      "Value" : "120"
+   },
+   "0018,0090" : {
+      "Name" : "DataCollectionDiameter",
+      "Type" : "String",
+      "Value" : "500"
+   },
+   "0018,1020" : {
+      "Name" : "SoftwareVersions",
+      "Type" : "String",
+      "Value" : "2.0.0"
+   },
+   "0018,1100" : {
+      "Name" : "ReconstructionDiameter",
+      "Type" : "String",
+      "Value" : "500"
+   },
+   "0018,1120" : {
+      "Name" : "GantryDetectorTilt",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0018,1130" : {
+      "Name" : "TableHeight",
+      "Type" : "String",
+      "Value" : "121"
+   },
+   "0018,1140" : {
+      "Name" : "RotationDirection",
+      "Type" : "String",
+      "Value" : "CW"
+   },
+   "0018,1141" : {
+      "Name" : "RETIRED_AngularPosition",
+      "Type" : "String",
+      "Value" : "90"
+   },
+   "0018,1143" : {
+      "Name" : "ScanArc",
+      "Type" : "String",
+      "Value" : "90"
+   },
+   "0018,1150" : {
+      "Name" : "ExposureTime",
+      "Type" : "String",
+      "Value" : "3000"
+   },
+   "0018,1151" : {
+      "Name" : "XRayTubeCurrent",
+      "Type" : "String",
+      "Value" : "30"
+   },
+   "0018,1160" : {
+      "Name" : "FilterType",
+      "Type" : "String",
+      "Value" : "D"
+   },
+   "0018,5100" : {
+      "Name" : "PatientPosition",
+      "Type" : "String",
+      "Value" : "HFS"
+   },
+   "0020,000d" : {
+      "Name" : "StudyInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.276.0.7230010.3.1.2.0.3624.1519243015.906536"
+   },
+   "0020,000e" : {
+      "Name" : "SeriesInstanceUID",
+      "Type" : "String",
+      "Value" : "1.2.276.0.7230010.3.1.3.0.3624.1519243015.906537"
+   },
+   "0020,0011" : {
+      "Name" : "SeriesNumber",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0020,0012" : {
+      "Name" : "AcquisitionNumber",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0020,0013" : {
+      "Name" : "InstanceNumber",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0020,0032" : {
+      "Name" : "ImagePositionPatient",
+      "Type" : "String",
+      "Value" : "0\\-116\\259.604614"
+   },
+   "0020,0037" : {
+      "Name" : "ImageOrientationPatient",
+      "Type" : "String",
+      "Value" : "0\\1\\0\\0\\0\\-1"
+   },
+   "0020,0060" : {
+      "Name" : "Laterality",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0020,1040" : {
+      "Name" : "PositionReferenceIndicator",
+      "Type" : "String",
+      "Value" : ""
+   },
+   "0020,1041" : {
+      "Name" : "SliceLocation",
+      "Type" : "String",
+      "Value" : "-40.20"
+   },
+   "0028,0002" : {
+      "Name" : "SamplesPerPixel",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0028,0004" : {
+      "Name" : "PhotometricInterpretation",
+      "Type" : "String",
+      "Value" : "MONOCHROME2"
+   },
+   "0028,0010" : {
+      "Name" : "Rows",
+      "Type" : "String",
+      "Value" : "307"
+   },
+   "0028,0011" : {
+      "Name" : "Columns",
+      "Type" : "String",
+      "Value" : "512"
+   },
+   "0028,0030" : {
+      "Name" : "PixelSpacing",
+      "Type" : "String",
+      "Value" : "0.9765625\\0.9765625"
+   },
+   "0028,0100" : {
+      "Name" : "BitsAllocated",
+      "Type" : "String",
+      "Value" : "16"
+   },
+   "0028,0101" : {
+      "Name" : "BitsStored",
+      "Type" : "String",
+      "Value" : "12"
+   },
+   "0028,0102" : {
+      "Name" : "HighBit",
+      "Type" : "String",
+      "Value" : "11"
+   },
+   "0028,0103" : {
+      "Name" : "PixelRepresentation",
+      "Type" : "String",
+      "Value" : "0"
+   },
+   "0028,1050" : {
+      "Name" : "WindowCenter",
+      "Type" : "String",
+      "Value" : "00020\\00020"
+   },
+   "0028,1051" : {
+      "Name" : "WindowWidth",
+      "Type" : "String",
+      "Value" : "01500\\01500"
+   },
+   "0028,1052" : {
+      "Name" : "RescaleIntercept",
+      "Type" : "String",
+      "Value" : "-1024"
+   },
+   "0028,1053" : {
+      "Name" : "RescaleSlope",
+      "Type" : "String",
+      "Value" : "1"
+   },
+   "0032,1060" : {
+      "Name" : "RequestedProcedureDescription",
+      "Type" : "String",
+      "Value" : "CT Head"
+   },
+   "7fe0,0010" : {
+      "Name" : "PixelData",
+      "Type" : "Null",
+      "Value" : null
+   }
+}
