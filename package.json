@@ -20,7 +20,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "cd src npm install",
     "build": "webpack",
-    "start": "node node_modules/http-server/bin/http-server -o --cors &",
+    "start": "node node_modules/http-server/bin/http-server -o &",
     "dicom-server": "./dicom-server/orthancAndPluginsOSX.stable/startOrthanc.command &",
     "webpack": "webpack &",
     "webpack-dev-server": "webpack-dev-server &"
@@ -50,6 +50,7 @@
     "catta": "^2.1.1",
     "common-js": "^0.3.8",
     "cors": "^2.8.4",
+    "corsproxy": "^1.5.0",
     "ecstatic": "^3.1.1",
     "express": "^4.16.2",
     "grunt": "^0.4.5",
