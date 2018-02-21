@@ -78,7 +78,7 @@ npm start
 3.6. Open the link:
 
 ```
-localhost:8080/src
+localhost:8080/src/
 ```
 
 #### Allow-Control-Allow-Origin
