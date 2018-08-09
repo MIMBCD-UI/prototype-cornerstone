@@ -47,6 +47,7 @@
     "webpack-dev-server": "^3.1.5"
   },
   "dependencies": {
+    "ajv-keywords": "^3.2.0",
     "catta": "^2.1.2",
     "common-js": "^0.3.8",
     "cors": "^2.8.4",
