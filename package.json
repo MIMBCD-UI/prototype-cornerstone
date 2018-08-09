@@ -55,6 +55,7 @@
     "express": "^4.16.2",
     "grunt": "^0.4.5",
     "gulp-util": "^3.0.8",
+    "hapi": "^17.5.3",
     "http-server": "^0.9.0",
     "semver": "^5.5.0"
   }
