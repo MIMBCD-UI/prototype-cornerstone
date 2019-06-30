@@ -5,7 +5,7 @@
     "modality" : "CT",
     "studyDescription" :"Head",
     "numImages" : 1,
-    "studyId" : "ctheadstudy",
+    "studyId" : "93F0528D-3891-45B0-80CC-BB728C20F8FC",
     "seriesList" : [
         {
             "StudyInstanceUID" : "1.2.276.0.7230010.3.1.2.0.3624.1519243015.906536",

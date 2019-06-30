@@ -7,7 +7,7 @@
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
-            "studyId" : "usbreaststudy"
+            "studyId" : "5A7A314A-B881-4BEF-91AA-73258CA96675"
         },
         {
             "patientName" : "Anonymized2",
@@ -16,7 +16,7 @@
             "modality" : "Multi.",
             "studyDescription" :"Breast",
             "numImages" : 6,
-            "studyId" : "usmgbreaststudy"
+            "studyId" : "9AF6DD70-51D7-457E-AF53-30CCDC5D7126"
         },
         {
             "patientName" : "Anonymized3",
@@ -25,7 +25,7 @@
             "modality" : "US",
             "studyDescription" :"Breast",
             "numImages" : 1,
-            "studyId" : "us2breaststudy"
+            "studyId" : "1E60E211-42B6-4556-A1F6-223E85AD38A6"
         },
         {
             "patientName" : "Anonymized7",
@@ -34,7 +34,7 @@
             "modality" : "Multi.",
             "studyDescription" :"Knee",
             "numImages" : 2,
-            "studyId" : "multikneestudy"
+            "studyId" : "A65E5A90-8849-4875-BC93-4AC03FD4DB68"
         },
         {
             "patientName" : "Anonymized10",
@@ -43,7 +43,7 @@
             "modality" : "CT",
             "studyDescription" :"Head",
             "numImages" : 1,
-            "studyId" : "ctheadstudy"
+            "studyId" : "93F0528D-3891-45B0-80CC-BB728C20F8FC"
         }
     ]
 }
