@@ -73,9 +73,9 @@ function loadStudy(studyViewer, viewportModel, studyId) {
                     var imageId = series.instanceList[0].imageId + "?frame=" + i;
                     if (imageId.substr(0, 4) !== 'http') {
                         //imageId = "dicomweb://cornerstonetech.org/images/ClearCanvas/" + imageId;
-                        //imageId = "dicomweb://localhost:8042/instances/" + imageId;
-                        imageId = "wadouri://localhost:8042/instances/" + imageId;
-                        //imageId = "wadouri://localhost:8042/wado?objectUID=" + imageId + "&requestType=WADO&contentType=application/dicom";
+                        //imageId = "dicomweb://breastscreening.isr.tecnico.ulisboa.pt:8450/instances/" + imageId;
+                        imageId = "wadouri://breastscreening.isr.tecnico.ulisboa.pt:8450/instances/" + imageId;
+                        //imageId = "wadouri://breastscreening.isr.tecnico.ulisboa.pt:8450/wado?objectUID=" + imageId + "&requestType=WADO&contentType=application/dicom";
                         console.log("DICOM ID: ", imageId);
                         studyViewer.roiData.dicom_id = imageId;
                     }
@@ -88,9 +88,9 @@ function loadStudy(studyViewer, viewportModel, studyId) {
 
                     if (image.imageId.substr(0, 4) !== 'http') {
                         //imageId = "dicomweb://cornerstonetech.org/images/ClearCanvas/" + image.imageId;
-                        //imageId = "dicomweb://localhost:8042/instances/" + image.imageId;
-                        imageId = "wadouri://localhost:8042/instances/" + image.imageId;
-                        //imageId = "wadouri://localhost:8042/wado?objectUID=" + image.imageId + "&requestType=WADO&contentType=application/dicom";
+                        //imageId = "dicomweb://breastscreening.isr.tecnico.ulisboa.pt:8450/instances/" + image.imageId;
+                        imageId = "wadouri://breastscreening.isr.tecnico.ulisboa.pt:8450/instances/" + image.imageId;
+                        //imageId = "wadouri://breastscreening.isr.tecnico.ulisboa.pt:8450/wado?objectUID=" + image.imageId + "&requestType=WADO&contentType=application/dicom";
                         console.log("DICOM Image ID: ", image.imageId);
                     }
                     stack.imageIds.push(imageId);

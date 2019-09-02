@@ -10,11 +10,11 @@ function callAPI(url) {
 }
 
 async function getStudyList(callback) {
-    const patients = await callAPI('http://localhost:8042/patients?expand')
+    const patients = await callAPI('http://breastscreening.isr.tecnico.ulisboa.pt:8450/patients?expand')
     const p = patients.reduce((prev, next) => {
         return prev.concat(next.Studies);
     }, []).map(studyId => {
-        const url = 'http://localhost:8042/studies/' + studyId + '?';
+        const url = 'http://breastscreening.isr.tecnico.ulisboa.pt:8450/studies/' + studyId + '?';
         return callAPI(url).then(result => result);
     })
 
