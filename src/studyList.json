@@ -1,49 +1,34 @@
 {
     "studyList": [
         {
-            "patientName" : "Anonymized1",
-            "patientId" : "5A7A314A-B881-4BEF-91AA-73258CA96675",
-            "studyDate" : "20160216",
-            "modality" : "US",
-            "studyDescription" :"Breast",
-            "numImages" : 1,
-            "studyId" : "5A7A314A-B881-4BEF-91AA-73258CA96675"
+            "patientName": "MR/BRAIN/GRASE/1024",
+            "patientId": "7",
+            "internalId": "8f14e4",
+            "studyDate": "19950330",
+            "modality": "BRAIN",
+            "studyDescription": "BRAIN",
+            "numImages": 1,
+            "studyId": "7"
         },
         {
-            "patientName" : "Anonymized2",
-            "patientId" : "9AF6DD70-51D7-457E-AF53-30CCDC5D7126",
-            "studyDate" : "20131101",
-            "modality" : "Multi.",
-            "studyDescription" :"Breast",
-            "numImages" : 6,
-            "studyId" : "9AF6DD70-51D7-457E-AF53-30CCDC5D7126"
+            "patientName": "Anonymized",
+            "patientId": "0",
+            "internalId": "cfcd20",
+            "studyDate": "20070101",
+            "modality": "Knee (R)",
+            "studyDescription": "Knee (R)",
+            "numImages": 71,
+            "studyId": "0"
         },
         {
-            "patientName" : "Anonymized3",
-            "patientId" : "1E60E211-42B6-4556-A1F6-223E85AD38A6",
-            "studyDate" : "20161205",
-            "modality" : "US",
-            "studyDescription" :"Breast",
-            "numImages" : 1,
-            "studyId" : "1E60E211-42B6-4556-A1F6-223E85AD38A6"
-        },
-        {
-            "patientName" : "Anonymized7",
-            "patientId" : "A65E5A90-8849-4875-BC93-4AC03FD4DB68",
-            "studyDate" : "20110101",
-            "modality" : "Multi.",
-            "studyDescription" :"Knee",
-            "numImages" : 2,
-            "studyId" : "A65E5A90-8849-4875-BC93-4AC03FD4DB68"
-        },
-        {
-            "patientName" : "Anonymized10",
-            "patientId" : "93F0528D-3891-45B0-80CC-BB728C20F8FC",
-            "studyDate" : "20030505",
-            "modality" : "CT",
-            "studyDescription" :"Head",
-            "numImages" : 1,
-            "studyId" : "93F0528D-3891-45B0-80CC-BB728C20F8FC"
+            "patientName": "Case1",
+            "patientId": "Case1",
+            "internalId": "a294f5",
+            "studyDate": "20080408",
+            "modality": "BREAST IMAGING TOMOSYNTHESIS",
+            "studyDescription": "BREAST IMAGING TOMOSYNTHESIS",
+            "numImages": 6,
+            "studyId": "Case1"
         }
     ]
 }
