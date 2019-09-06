@@ -20,7 +20,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "cd src npm install",
     "build": "webpack",
-    "start": "node node_modules/http-server/bin/http-server -o &",
+    "start": "node node_modules/http-server/bin/http-server -o -p 8982 &",
     "dicom-server": "./dicom-server/orthancAndPluginsOSX.stable/startOrthanc.command &",
     "webpack": "webpack &",
     "webpack-dev-server": "webpack-dev-server &"
