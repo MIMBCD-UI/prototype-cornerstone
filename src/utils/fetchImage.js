@@ -1,5 +1,5 @@
 function fetchImagePatients() {
-  fetch('http://breastscreening.isr.tecnico.ulisboa.pt:8450/patients/')
+  fetch('http://breastscreening.isr.tecnico.ulisboa.pt:4550/patients/')
   .then(data => data.json())
 }
 
