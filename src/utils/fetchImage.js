@@ -1,5 +1,5 @@
 function fetchImagePatients() {
-  fetch('http://breastscreening.arditi.pt:8450/patients/')
+  fetch('http://breastscreening.arditi.pt:8550/patients/')
   .then(data => data.json())
 }
 
