@@ -6,6 +6,32 @@
 
 [MIMBCD-UI](https://mimbcd-ui.github.io/) is a Research Project that deals with the use of a recently proposed technique in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network). These deep networks will incorporate information from several different modes by a User Interface (UI) implemented using the [Cornerstone Library](https://github.com/chafey/cornerstone). The [Cornerstone](https://github.com/chafey/cornerstone) is an Open Source Project with a goal to deliver a complete web based medical imaging platform. A [demo](http://breastscreening.arditi.pt:8982/src/index.html) is also provided to show the source code of this repository in action.
 
+## Citing
+
+We kindly ask **scientific works and studies** that make use of the repository to cite it in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of the repository to warn us about this use.
+
+You can cite our work using the following BibTeX entry:
+
+```
+@inproceedings{10.1145/3399715.3399744,
+author = {Calisto, Francisco Maria and Nunes, Nuno and Nascimento, Jacinto C.},
+title = {BreastScreening: On the Use of Multi-Modality in Medical Imaging Diagnosis},
+year = {2020},
+isbn = {9781450375351},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3399715.3399744},
+doi = {10.1145/3399715.3399744},
+abstract = {This paper describes the field research, design and comparative deployment of a multimodal medical imaging user interface for breast screening. The main contributions described here are threefold: 1) The design of an advanced visual interface for multimodal diagnosis of breast cancer (BreastScreening); 2) Insights from the field comparison of Single-Modality vs Multi-Modality screening of breast cancer diagnosis with 31 clinicians and 566 images; and 3) The visualization of the two main types of breast lesions in the following image modalities: (i) MammoGraphy (MG) in both Craniocaudal (CC) and Mediolateral oblique (MLO) views; (ii) UltraSound (US); and (iii) Magnetic Resonance Imaging (MRI). We summarize our work with recommendations from the radiologists for guiding the future design of medical imaging interfaces.},
+booktitle = {Proceedings of the International Conference on Advanced Visual Interfaces},
+articleno = {49},
+numpages = {5},
+keywords = {user-centered design, multimodality, medical imaging, human-computer interaction, healthcare systems, breast cancer, annotations},
+location = {Salerno, Italy},
+series = {AVI '20}
+}
+```
+
 ## Instructions
 
 First of all, you will need [NodeJS](https://nodejs.org/en/) installed locally on your machine. This project needs both [`npm`](https://www.npmjs.com/) and [`http-server`](https://github.com/indexzero/http-server) dependencies to install and run the core project. If you do not have those installed please follow the [`INSTALL`](src/INSTALL.md) instructions.
