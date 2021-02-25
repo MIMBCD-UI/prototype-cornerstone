@@ -1,6 +1,13 @@
 {
     "studyList": [
         {
+            "patientName": "Anonymized",
+            "patientId": "0",
+            "internalId": "cfcd20",
+            "numImages": 1,
+            "studyId": "0"
+        },
+        {
             "patientName": "MR/BRAIN/GRASE/1024",
             "patientId": "7",
             "internalId": "8f14e4",
