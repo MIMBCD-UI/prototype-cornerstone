@@ -1,0 +1,22 @@
+{
+    "patientName": "Rubo DEMO",
+    "patientId": "10-55-87",
+    "internalId": "d19ce2",
+    "studyDate": "19960308",
+    "modality": "5",
+    "studyDescription": "5",
+    "numImages": 1,
+    "studyId": "13cb731b-00554b0d-64c4df85-387993ed-132941b5",
+    "seriesList": [
+        {
+            "seriesDescription": "RF",
+            "seriesNumber": "01",
+            "instanceList": [
+                {
+                    "instanceNumber": 2,
+                    "imageId": "2991c996-62ba403e-96d27bfe-33d472ee-f2b96e17/file"
+                }
+            ]
+        }
+    ]
+}

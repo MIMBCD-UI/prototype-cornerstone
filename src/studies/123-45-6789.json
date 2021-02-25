@@ -1,0 +1,22 @@
+{
+    "patientName": "Rubo DEMO",
+    "patientId": "123-45-6789",
+    "internalId": "25f9e7",
+    "studyDate": "19940323",
+    "modality": "Echocardiogram",
+    "studyDescription": "Echocardiogram",
+    "numImages": 1,
+    "studyId": "e0345e10-60e8309f-e4b53d9d-1f2a9545-e9372411",
+    "seriesList": [
+        {
+            "seriesDescription": "US",
+            "seriesNumber": "5829",
+            "instanceList": [
+                {
+                    "instanceNumber": 28,
+                    "imageId": "1a430a89-16db2731-8ef19e46-c238c4d3-709cb35d/file"
+                }
+            ]
+        }
+    ]
+}
