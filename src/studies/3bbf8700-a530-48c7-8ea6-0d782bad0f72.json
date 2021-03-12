@@ -653,19 +653,7 @@
                     "imageId": "bd6bfb41-36db12a4-62679b3d-a8a6758d-df9ca4f2/file"
                 }
             ]
-        }
-    ]
-},
-{
-    "patientName": "Anonymized2",
-    "patientId": "3bbf8700",
-    "internalId": "d761c4",
-    "studyDate": "",
-    "modality": "Mamografia bilateral, duas incidências por mama",
-    "studyDescription": "Mamografia bilateral, duas incidências por mama",
-    "numImages": 1,
-    "studyId": "2691e00c-4e9e4998-200a26f6-8afc318d-d0fbdd34",
-    "seriesList": [
+        },
         {
             "seriesDescription": "MG",
             "seriesNumber": "5381",
@@ -705,19 +693,7 @@
                     "imageId": "a9d309a4-7b6999de-b1dacc3a-4b5ced4f-e1fc8a99/file"
                 }
             ]
-        }
-    ]
-},
-{
-    "patientName": "Anonymized2",
-    "patientId": "3bbf8700",
-    "internalId": "d761c4",
-    "studyDate": "",
-    "modality": "Breast",
-    "studyDescription": "Breast",
-    "numImages": 1,
-    "studyId": "80c167ba-66c82e0d-59851299-23d7cd22-f023d678",
-    "seriesList": [
+        },
         {
             "seriesDescription": "US",
             "seriesNumber": "1",
