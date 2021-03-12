@@ -45,7 +45,7 @@
             "modality": "Breast",
             "studyDescription": "Breast",
             "numImages": 1,
-            "studyId": "c381f8f9"
+            "studyId": "c381f8f9X"
         },
         {
             "patientName": "Anonymized2",
@@ -55,7 +55,7 @@
             "modality": "Breast",
             "studyDescription": "Breast",
             "numImages": 1,
-            "studyId": "3bbf8700"
+            "studyId": "3bbf8700X"
         }
     ]
 }
