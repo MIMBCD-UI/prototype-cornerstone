@@ -653,19 +653,7 @@
                     "imageId": "714e8273-e3fc388b-d2ed9c19-6bc6342b-1e02362f/file"
                 }
             ]
-        }
-    ]
-},
-{
-    "patientName": "Anonymized3",
-    "patientId": "8630cf31-7543-4f9b-9c25-13ee4c9e57e7",
-    "internalId": "bf4fd3",
-    "studyDate": "",
-    "modality": "EXAMES EXTERIOR - TRIBUNAIS E HOSPITAIS MAMOGRAFI",
-    "studyDescription": "EXAMES EXTERIOR - TRIBUNAIS E HOSPITAIS MAMOGRAFI",
-    "numImages": 1,
-    "studyId": "f2916dae-a9d4cbbc-8639377e-2c21f6d1-794307ac",
-    "seriesList": [
+        },
         {
             "seriesDescription": "MG",
             "seriesNumber": "6629",
@@ -705,19 +693,7 @@
                     "imageId": "41109f35-6454c703-f67c23ad-64d0cab1-a3dc3cb9/file"
                 }
             ]
-        }
-    ]
-},
-{
-    "patientName": "Anonymized3",
-    "patientId": "8630cf31-7543-4f9b-9c25-13ee4c9e57e7",
-    "internalId": "bf4fd3",
-    "studyDate": "",
-    "modality": "Breast",
-    "studyDescription": "Breast",
-    "numImages": 1,
-    "studyId": "d8d0230c-6f647ebd-7d6ad6ff-19ff343c-262d93fe",
-    "seriesList": [
+        },
         {
             "seriesDescription": "US",
             "seriesNumber": "1",
