@@ -39,7 +39,7 @@
         },
         {
             "patientName": "Anonymized1",
-            "patientId": "c381f8f9-12ed-4076-be65-a79fd745644c",
+            "patientId": "c381f8f9",
             "internalId": "75b1d5",
             "studyDate": "",
             "modality": "Breast",
@@ -49,7 +49,7 @@
         },
         {
             "patientName": "Anonymized2",
-            "patientId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72",
+            "patientId": "3bbf8700",
             "internalId": "d761c4",
             "studyDate": "",
             "modality": "Breast",

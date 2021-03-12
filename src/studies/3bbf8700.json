@@ -1,6 +1,6 @@
 {
     "patientName": "Anonymized2",
-    "patientId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72",
+    "patientId": "3bbf8700",
     "internalId": "d761c4",
     "studyDate": "",
     "modality": "Breast",
@@ -658,7 +658,7 @@
 },
 {
     "patientName": "Anonymized2",
-    "patientId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72",
+    "patientId": "3bbf8700",
     "internalId": "d761c4",
     "studyDate": "",
     "modality": "Mamografia bilateral, duas incidências por mama",
@@ -710,7 +710,7 @@
 },
 {
     "patientName": "Anonymized2",
-    "patientId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72",
+    "patientId": "3bbf8700",
     "internalId": "d761c4",
     "studyDate": "",
     "modality": "Breast",
