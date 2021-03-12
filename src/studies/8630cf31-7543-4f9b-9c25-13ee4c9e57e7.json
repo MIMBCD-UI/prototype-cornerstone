@@ -1,0 +1,732 @@
+{
+    "patientName": "Anonymized3",
+    "patientId": "8630cf31-7543-4f9b-9c25-13ee4c9e57e7",
+    "internalId": "bf4fd3",
+    "studyDate": "",
+    "modality": "MAMA^ROTINA",
+    "studyDescription": "MAMA^ROTINA",
+    "numImages": 160,
+    "studyId": "f3b7b1f5-e9fbcb85-4b4b5696-882801f6-a9487137",
+    "seriesList": [
+        {
+            "seriesDescription": "MR",
+            "seriesNumber": "13",
+            "instanceList": [
+                {
+                    "instanceNumber": 1,
+                    "imageId": "3a5b15cb-06728c29-f533c6b9-9713a75e-774bdc44/file"
+                },
+                {
+                    "instanceNumber": 2,
+                    "imageId": "9035b5ff-6f805c96-5ca696d9-cb1c8632-2fa84648/file"
+                },
+                {
+                    "instanceNumber": 3,
+                    "imageId": "2a06bc39-acdbb6c6-dd2e93a4-c4bc2318-74d6d98b/file"
+                },
+                {
+                    "instanceNumber": 4,
+                    "imageId": "a810d2f5-c24ee3eb-af416ac1-499c6b70-6dcd9236/file"
+                },
+                {
+                    "instanceNumber": 5,
+                    "imageId": "c133ab2f-def39b34-893f3627-98faab96-356c5b14/file"
+                },
+                {
+                    "instanceNumber": 6,
+                    "imageId": "5c725c68-a6b73697-8de3a288-e0d16206-b99659df/file"
+                },
+                {
+                    "instanceNumber": 7,
+                    "imageId": "8fe3b617-45ee279b-26a35523-68bb589c-bcc74b09/file"
+                },
+                {
+                    "instanceNumber": 8,
+                    "imageId": "cf28fbf7-2fe178bf-61bf9360-8c9efffe-550990e7/file"
+                },
+                {
+                    "instanceNumber": 9,
+                    "imageId": "e1c4ae0a-f051fd8e-6336083b-567a605c-ec7e0d96/file"
+                },
+                {
+                    "instanceNumber": 10,
+                    "imageId": "692e6cd8-be1803ea-f1f20927-1b221d7b-2ae836d2/file"
+                },
+                {
+                    "instanceNumber": 11,
+                    "imageId": "0fa989c5-a79ac014-f7d3f398-f9d6c2ac-6397029c/file"
+                },
+                {
+                    "instanceNumber": 12,
+                    "imageId": "c582c4f0-d3b20fba-b7ccaf60-c52ad667-5e320f39/file"
+                },
+                {
+                    "instanceNumber": 13,
+                    "imageId": "4a635822-7ea48b7c-6f329b7e-7f19994a-4061b979/file"
+                },
+                {
+                    "instanceNumber": 14,
+                    "imageId": "794104e8-80f1a68b-5e8883d7-8ebd6c99-427b1a29/file"
+                },
+                {
+                    "instanceNumber": 15,
+                    "imageId": "9aa0b4fe-d7387ab5-3f93d61a-b99693f0-75d2e117/file"
+                },
+                {
+                    "instanceNumber": 16,
+                    "imageId": "88b3def1-43e8873d-fa30d6f9-0c306314-c525cb39/file"
+                },
+                {
+                    "instanceNumber": 17,
+                    "imageId": "b9993753-2cb26cf5-2185319c-991e8efe-5aacbc5b/file"
+                },
+                {
+                    "instanceNumber": 18,
+                    "imageId": "3b2df8e9-fdc1b6a7-a6228c9a-9a0805b4-a75695d8/file"
+                },
+                {
+                    "instanceNumber": 19,
+                    "imageId": "50a562b2-5effd1a5-b53d6f53-a4e12bd1-a7b46bea/file"
+                },
+                {
+                    "instanceNumber": 20,
+                    "imageId": "c166d732-ca4bd528-66f9f840-4bdcf80c-75af953e/file"
+                },
+                {
+                    "instanceNumber": 21,
+                    "imageId": "7de4be8d-891fd907-5e4ab255-678262f6-0dbb1f23/file"
+                },
+                {
+                    "instanceNumber": 22,
+                    "imageId": "a16ae219-ed762171-86562c53-4aef0f0b-d37ec5cc/file"
+                },
+                {
+                    "instanceNumber": 23,
+                    "imageId": "d488933a-67224300-410d3110-faf4622d-835a2817/file"
+                },
+                {
+                    "instanceNumber": 24,
+                    "imageId": "f367d11f-aa551f20-398cc5c2-938ecb66-799dac9f/file"
+                },
+                {
+                    "instanceNumber": 25,
+                    "imageId": "59eca1da-5ecc23a5-e71500ad-21d1847c-60fb8b17/file"
+                },
+                {
+                    "instanceNumber": 26,
+                    "imageId": "de1f498a-b6cbed1b-1e8ce4ba-cff49532-7c94846c/file"
+                },
+                {
+                    "instanceNumber": 27,
+                    "imageId": "3f66c328-dab507a7-234c7e87-ba8adff9-fe71a85a/file"
+                },
+                {
+                    "instanceNumber": 28,
+                    "imageId": "53a25cb0-cef95f72-be2d55c5-b87e4541-31e4a851/file"
+                },
+                {
+                    "instanceNumber": 29,
+                    "imageId": "35e1ffa0-f8154fb8-ce7f39de-7ef112ae-47296b3d/file"
+                },
+                {
+                    "instanceNumber": 30,
+                    "imageId": "8958d55e-2ba7e5d9-4c8463da-e7bc560d-86ffd98b/file"
+                },
+                {
+                    "instanceNumber": 31,
+                    "imageId": "d73fa33e-67b3df75-2188c111-95b94624-d90f5d98/file"
+                },
+                {
+                    "instanceNumber": 32,
+                    "imageId": "9d305f3e-1644e704-ecb72079-61846c59-20193285/file"
+                },
+                {
+                    "instanceNumber": 33,
+                    "imageId": "8ac4cb16-e35a9d93-5a78aca7-2aa86c73-d7635e21/file"
+                },
+                {
+                    "instanceNumber": 34,
+                    "imageId": "6bdf84ec-7b29429f-8a6e59b4-2f042da2-b35385a3/file"
+                },
+                {
+                    "instanceNumber": 35,
+                    "imageId": "088d21f9-48463878-88301a92-be67f481-a248a31c/file"
+                },
+                {
+                    "instanceNumber": 36,
+                    "imageId": "a221889b-ce3f31b9-e9171cda-e8d9254b-b2255201/file"
+                },
+                {
+                    "instanceNumber": 37,
+                    "imageId": "edf18762-42a8c6e5-ec7db93d-2654dac6-7f6c6011/file"
+                },
+                {
+                    "instanceNumber": 38,
+                    "imageId": "96afd30a-748d1144-55ef56f5-fe67d53a-dae3543e/file"
+                },
+                {
+                    "instanceNumber": 39,
+                    "imageId": "dd5386d6-123ed90d-6d87aa5b-c0d7b17d-d2bff35f/file"
+                },
+                {
+                    "instanceNumber": 40,
+                    "imageId": "4920b435-2ca2d94b-1c476172-dfae095b-d25888b5/file"
+                },
+                {
+                    "instanceNumber": 41,
+                    "imageId": "744c43f5-50642e84-c8ac233d-1aec45f9-dba7c928/file"
+                },
+                {
+                    "instanceNumber": 42,
+                    "imageId": "7074dd01-a3b6488a-e5f25bf3-76ae389b-9db4863f/file"
+                },
+                {
+                    "instanceNumber": 43,
+                    "imageId": "3a39d3dd-a44b373e-dba0459d-8757520a-2b449e02/file"
+                },
+                {
+                    "instanceNumber": 44,
+                    "imageId": "79454c44-d39171a7-9c70ab2a-09c8f969-16c7fab0/file"
+                },
+                {
+                    "instanceNumber": 45,
+                    "imageId": "7806d8a7-cf01b429-f988c94f-d2f291ce-b52a1435/file"
+                },
+                {
+                    "instanceNumber": 46,
+                    "imageId": "af1f81c2-27e8c52e-623c0be5-87a9c448-52bb960f/file"
+                },
+                {
+                    "instanceNumber": 47,
+                    "imageId": "a6a08bc4-e7408fc8-76f5cfbc-8ef82262-f7f45b9d/file"
+                },
+                {
+                    "instanceNumber": 48,
+                    "imageId": "b466b930-d9625b64-c556b230-6a7ab1bf-57579091/file"
+                },
+                {
+                    "instanceNumber": 49,
+                    "imageId": "1d3f165c-f7f252dc-8e5e2745-1d5807f5-d08ee6c2/file"
+                },
+                {
+                    "instanceNumber": 50,
+                    "imageId": "29cdd727-0f0db702-feb2357e-1872ed33-5c56e5b8/file"
+                },
+                {
+                    "instanceNumber": 51,
+                    "imageId": "e0d88322-dfa05ce0-139c65bb-ab4cebc6-38c2ef0d/file"
+                },
+                {
+                    "instanceNumber": 52,
+                    "imageId": "f29f6705-03509c20-3478c4db-fe2b642f-9583363b/file"
+                },
+                {
+                    "instanceNumber": 53,
+                    "imageId": "67140ad7-99599e38-3c95ec14-217708c3-405bf37a/file"
+                },
+                {
+                    "instanceNumber": 54,
+                    "imageId": "2707e7c1-b89663fe-4a472d22-68b0b5b3-04fc0bd7/file"
+                },
+                {
+                    "instanceNumber": 55,
+                    "imageId": "3567fd29-88cfcc96-8694438b-dbeb4dab-300d1f34/file"
+                },
+                {
+                    "instanceNumber": 56,
+                    "imageId": "5cfeb263-90fe75aa-d65541cb-73371b00-5e220207/file"
+                },
+                {
+                    "instanceNumber": 57,
+                    "imageId": "55985aa2-97dad277-13f9d889-0304d578-ea3690bf/file"
+                },
+                {
+                    "instanceNumber": 58,
+                    "imageId": "01f449b5-04dc9543-5569fef9-8cebb3a7-dac2d20f/file"
+                },
+                {
+                    "instanceNumber": 59,
+                    "imageId": "8bd0c52d-39e8c773-2cdf6925-e9819aa4-5d244482/file"
+                },
+                {
+                    "instanceNumber": 60,
+                    "imageId": "b294d8c5-cbae89db-b9cc9358-6f5d2e52-c1cfe6d5/file"
+                },
+                {
+                    "instanceNumber": 61,
+                    "imageId": "efb5959e-8b9e638b-11c8ea0b-59648ded-d1c36219/file"
+                },
+                {
+                    "instanceNumber": 62,
+                    "imageId": "61a94551-769ccebc-f3466529-c39a1307-a8e636b6/file"
+                },
+                {
+                    "instanceNumber": 63,
+                    "imageId": "72fa63ee-501ae660-c0069a9f-89116273-7dd5cb39/file"
+                },
+                {
+                    "instanceNumber": 64,
+                    "imageId": "ee75e1fc-28d89c85-85331428-f0b683ad-7613844f/file"
+                },
+                {
+                    "instanceNumber": 65,
+                    "imageId": "f03da27c-af69690a-0699f278-ef939348-ee1f1abb/file"
+                },
+                {
+                    "instanceNumber": 66,
+                    "imageId": "c26d9b6f-06eb8ea1-6a0065ef-ba442da7-c1c4760d/file"
+                },
+                {
+                    "instanceNumber": 67,
+                    "imageId": "e66bdded-268c1a13-c847a248-1433efb9-ec6511d5/file"
+                },
+                {
+                    "instanceNumber": 68,
+                    "imageId": "8b819464-8743a063-e3f4fd60-832aba2e-b9e66daf/file"
+                },
+                {
+                    "instanceNumber": 69,
+                    "imageId": "965f6032-3be974b2-3f092123-3a547593-32ddb6c1/file"
+                },
+                {
+                    "instanceNumber": 70,
+                    "imageId": "c7e3f403-66b21010-49425507-fe511809-deb64dbb/file"
+                },
+                {
+                    "instanceNumber": 71,
+                    "imageId": "fec206e6-fe613249-7d50dbd0-3d1012e7-4e3ddfee/file"
+                },
+                {
+                    "instanceNumber": 72,
+                    "imageId": "c244fcd2-511a17b4-c9b405df-07dff981-658d2436/file"
+                },
+                {
+                    "instanceNumber": 73,
+                    "imageId": "80323b1c-31ba54e6-914f4d8b-e9f628a7-29c8e93d/file"
+                },
+                {
+                    "instanceNumber": 74,
+                    "imageId": "9b35dbc5-e8355205-c1812ed7-1ce96693-7d4c4f96/file"
+                },
+                {
+                    "instanceNumber": 75,
+                    "imageId": "248c1126-8c0c9c83-3e0a4d9d-500b19a9-cd932afa/file"
+                },
+                {
+                    "instanceNumber": 76,
+                    "imageId": "2c522035-ea4b9cc9-62923759-0e36a796-d319d965/file"
+                },
+                {
+                    "instanceNumber": 77,
+                    "imageId": "899f47a3-3914bbe3-3eb317ed-b0fb793d-c2aec50f/file"
+                },
+                {
+                    "instanceNumber": 78,
+                    "imageId": "dc4b8079-475972e7-e7646048-c532a125-98c0b0ae/file"
+                },
+                {
+                    "instanceNumber": 79,
+                    "imageId": "1756a0b6-93175758-f20957e6-8ce0f1e9-8dc98681/file"
+                },
+                {
+                    "instanceNumber": 80,
+                    "imageId": "6b802c74-96de4fba-70d1675e-9b0e0f3f-2439e3d0/file"
+                },
+                {
+                    "instanceNumber": 81,
+                    "imageId": "87b41be3-1044541e-bfc1196b-0a17d007-bf77a890/file"
+                },
+                {
+                    "instanceNumber": 82,
+                    "imageId": "6b66ad7f-5b62d99b-32390808-4a5cde14-5f38b347/file"
+                },
+                {
+                    "instanceNumber": 83,
+                    "imageId": "fdd3d2f4-f59a34c3-58f84cd2-1efb7183-78f833bd/file"
+                },
+                {
+                    "instanceNumber": 84,
+                    "imageId": "cfe0db25-daab5248-52a92091-2ecec4ba-e28106a4/file"
+                },
+                {
+                    "instanceNumber": 85,
+                    "imageId": "118eb945-bb99d0b6-cfa6bb5e-f94307ab-5208a835/file"
+                },
+                {
+                    "instanceNumber": 86,
+                    "imageId": "ca781ba7-aa38502b-dcb66462-2f3b94ec-2234a957/file"
+                },
+                {
+                    "instanceNumber": 87,
+                    "imageId": "386c78ce-1f5e790b-725a6fcc-33c56b14-3af04b1d/file"
+                },
+                {
+                    "instanceNumber": 88,
+                    "imageId": "12123901-0114343d-f8b72eb8-d8245dc6-73ae6b04/file"
+                },
+                {
+                    "instanceNumber": 89,
+                    "imageId": "2589181b-2277fffd-fea63075-3d076ed1-679f0e41/file"
+                },
+                {
+                    "instanceNumber": 90,
+                    "imageId": "bc47ea54-c0d8607d-058f345c-5225d462-47cb65ed/file"
+                },
+                {
+                    "instanceNumber": 91,
+                    "imageId": "99dd1cf0-bb9b65e0-f500fb30-814adc44-34946aba/file"
+                },
+                {
+                    "instanceNumber": 92,
+                    "imageId": "eeef4c92-3f2d600e-c6100369-222e50a2-ac76c851/file"
+                },
+                {
+                    "instanceNumber": 93,
+                    "imageId": "1d5fa71b-5af125b2-2d83e6a1-18338b94-7b1194b9/file"
+                },
+                {
+                    "instanceNumber": 94,
+                    "imageId": "c5f81a7a-dbbf5045-fd8f0a7b-08d9b9c3-c7f13d6a/file"
+                },
+                {
+                    "instanceNumber": 95,
+                    "imageId": "3bf3b36b-254650dd-ffc9a929-a7fb34c6-a3f0d1c9/file"
+                },
+                {
+                    "instanceNumber": 96,
+                    "imageId": "213a8870-d0b4e444-289fbc66-c4b3429b-81730c4f/file"
+                },
+                {
+                    "instanceNumber": 97,
+                    "imageId": "c628707c-de486ba2-6e3f0eb7-35ad0b7a-a0615c1f/file"
+                },
+                {
+                    "instanceNumber": 98,
+                    "imageId": "73c8b96a-6f6cae02-e957ab4c-91b0d695-4de786dd/file"
+                },
+                {
+                    "instanceNumber": 99,
+                    "imageId": "4e0e25b8-abe284e4-5ac08333-c86045cc-66604771/file"
+                },
+                {
+                    "instanceNumber": 100,
+                    "imageId": "ed1511b9-9f8cc2cb-0aff972c-ac554bf4-8073b103/file"
+                },
+                {
+                    "instanceNumber": 101,
+                    "imageId": "b8fee529-12ee3d26-ef7f1310-2d5325a5-50b37865/file"
+                },
+                {
+                    "instanceNumber": 102,
+                    "imageId": "111421ff-1b3b102a-3ac6f42d-d78cace1-5dec5c15/file"
+                },
+                {
+                    "instanceNumber": 103,
+                    "imageId": "8876ff50-2204238b-5b7a695e-1e8af301-1a6dee19/file"
+                },
+                {
+                    "instanceNumber": 104,
+                    "imageId": "43d85e3c-79efc606-eedfe25d-ce1bd3a7-a31937c7/file"
+                },
+                {
+                    "instanceNumber": 105,
+                    "imageId": "06cbbd2e-939490db-caa26ccb-0a66fae8-c3eed5c6/file"
+                },
+                {
+                    "instanceNumber": 106,
+                    "imageId": "eca2f81a-456a262f-e26e8e79-04907b44-c8f1df0c/file"
+                },
+                {
+                    "instanceNumber": 107,
+                    "imageId": "9961935c-504e963b-9d693fec-0747caa7-5e6d8e54/file"
+                },
+                {
+                    "instanceNumber": 108,
+                    "imageId": "6dfc69ca-d9998b5a-35180aa9-119911ac-2bb5b72f/file"
+                },
+                {
+                    "instanceNumber": 109,
+                    "imageId": "ad1415c6-0532ad51-a447bf0f-7e9714de-dbe6b0f3/file"
+                },
+                {
+                    "instanceNumber": 110,
+                    "imageId": "039d28da-17ba3985-41590067-977ed703-0e0513d3/file"
+                },
+                {
+                    "instanceNumber": 111,
+                    "imageId": "a03b4245-01038a83-7dbaca9f-b38e0245-264aa4f1/file"
+                },
+                {
+                    "instanceNumber": 112,
+                    "imageId": "04c2704a-7a3cb8ee-c858c0fa-f3bfb8ba-0a3779db/file"
+                },
+                {
+                    "instanceNumber": 113,
+                    "imageId": "0c28d937-09a08ec3-d08a2bf8-0527a3fa-65b561a6/file"
+                },
+                {
+                    "instanceNumber": 114,
+                    "imageId": "b2edd107-470515f1-d37a96bc-c0929b63-36162e42/file"
+                },
+                {
+                    "instanceNumber": 115,
+                    "imageId": "e97804f1-4054269a-97839523-37151b23-93677192/file"
+                },
+                {
+                    "instanceNumber": 116,
+                    "imageId": "f9736fdb-d952b9c6-f4da0616-fe602623-c93916b2/file"
+                },
+                {
+                    "instanceNumber": 117,
+                    "imageId": "761a116e-10b9e1d1-6a45345a-c47fb4a2-1974ac1e/file"
+                },
+                {
+                    "instanceNumber": 118,
+                    "imageId": "0b6af15d-9d7aa76d-e583f5e7-dac391c8-3a8c9588/file"
+                },
+                {
+                    "instanceNumber": 119,
+                    "imageId": "859508f4-e34f8a49-e467984e-23123c82-b2fcc912/file"
+                },
+                {
+                    "instanceNumber": 120,
+                    "imageId": "a2acc561-52343a9f-305b8ad2-30d76dbf-a328300b/file"
+                },
+                {
+                    "instanceNumber": 121,
+                    "imageId": "5d464731-3c7b1216-f195fb0e-ecf4348c-8775526d/file"
+                },
+                {
+                    "instanceNumber": 122,
+                    "imageId": "2b3ddb25-0ce72634-a9fe43b5-54ccc409-0dfc0ab3/file"
+                },
+                {
+                    "instanceNumber": 123,
+                    "imageId": "c470afbb-9b3bbadb-44f18546-5e674da1-4a0bc025/file"
+                },
+                {
+                    "instanceNumber": 124,
+                    "imageId": "c3106664-f3539028-133606f1-ee6e700f-1a60426e/file"
+                },
+                {
+                    "instanceNumber": 125,
+                    "imageId": "eba74823-5e25b11c-c277b21d-2bbc35e4-59a8a820/file"
+                },
+                {
+                    "instanceNumber": 126,
+                    "imageId": "380ea830-8d1d07d5-9ecdf394-ca0d1e23-24605e4c/file"
+                },
+                {
+                    "instanceNumber": 127,
+                    "imageId": "6eb8fd34-fc70bb5d-02bddc33-4bf3bdb5-bcc0d95a/file"
+                },
+                {
+                    "instanceNumber": 128,
+                    "imageId": "6ef64a92-31473bd6-0fbb5ebe-846a5f30-e23b1634/file"
+                },
+                {
+                    "instanceNumber": 129,
+                    "imageId": "1f8706b3-f0c6a53e-0b2213e4-f5dc0103-9bd7d45a/file"
+                },
+                {
+                    "instanceNumber": 130,
+                    "imageId": "e32f0d1d-80e78b4b-54ee182a-b8bb3952-65303afc/file"
+                },
+                {
+                    "instanceNumber": 131,
+                    "imageId": "3f216b9b-7ded6285-776d9384-59d71a92-a30d5de3/file"
+                },
+                {
+                    "instanceNumber": 132,
+                    "imageId": "d0381baa-28cf3096-aa73af78-3556c6e4-9c06804e/file"
+                },
+                {
+                    "instanceNumber": 133,
+                    "imageId": "af305f1e-cab64041-1e0fd982-4837ce83-eb679766/file"
+                },
+                {
+                    "instanceNumber": 134,
+                    "imageId": "d306905d-819c929b-7023babb-48067a7a-0afe3b06/file"
+                },
+                {
+                    "instanceNumber": 135,
+                    "imageId": "e2b00085-3ba8bc8e-ae800660-f4037a53-b71d0652/file"
+                },
+                {
+                    "instanceNumber": 136,
+                    "imageId": "a1ea8671-4d1c6bc9-59cdab48-438d8af7-660ff358/file"
+                },
+                {
+                    "instanceNumber": 137,
+                    "imageId": "59f5f36e-b798af7b-28e37a0e-fbce04ff-c34763b6/file"
+                },
+                {
+                    "instanceNumber": 138,
+                    "imageId": "d121f7c4-67447078-054b2386-126767d6-22d027a5/file"
+                },
+                {
+                    "instanceNumber": 139,
+                    "imageId": "1343e434-6c96f429-44086d2b-71ba0d34-2118c3e6/file"
+                },
+                {
+                    "instanceNumber": 140,
+                    "imageId": "0dc1d89a-90dd7e4d-6565cd62-5194c953-fb4c55c9/file"
+                },
+                {
+                    "instanceNumber": 141,
+                    "imageId": "d0c17f1e-2812b25b-0509659e-fa68459e-9f50b710/file"
+                },
+                {
+                    "instanceNumber": 142,
+                    "imageId": "d7e12106-46e9eca8-6c47ec00-ffdf9d6d-f12917bc/file"
+                },
+                {
+                    "instanceNumber": 143,
+                    "imageId": "5479c1d3-c1dbf034-703eddc7-c349b681-1b0a95ba/file"
+                },
+                {
+                    "instanceNumber": 144,
+                    "imageId": "63312ee6-564a8308-ef099877-43fdca0a-55d1d4c5/file"
+                },
+                {
+                    "instanceNumber": 145,
+                    "imageId": "21cf1087-4691ab9f-fb3dd452-8cc02b71-93159979/file"
+                },
+                {
+                    "instanceNumber": 146,
+                    "imageId": "1841e838-a959ef29-aa100abd-ba849a43-1d6f5288/file"
+                },
+                {
+                    "instanceNumber": 147,
+                    "imageId": "4ba30b9f-97bf4337-babdf03d-a4bab028-29647d56/file"
+                },
+                {
+                    "instanceNumber": 148,
+                    "imageId": "8fca0e43-1f26d3ab-01315242-7e8578a8-51b3d2c5/file"
+                },
+                {
+                    "instanceNumber": 149,
+                    "imageId": "68678c12-199d133c-952f0ee4-27130a9a-c903e009/file"
+                },
+                {
+                    "instanceNumber": 150,
+                    "imageId": "42eee885-59b6c6f1-e00bfa5e-78e7e8d6-470f13b4/file"
+                },
+                {
+                    "instanceNumber": 151,
+                    "imageId": "0c92233e-8180d23f-807a83ef-f1bee3af-bbae8358/file"
+                },
+                {
+                    "instanceNumber": 152,
+                    "imageId": "16cf0f6d-605d467a-84551faa-ffa945e0-5d61bd00/file"
+                },
+                {
+                    "instanceNumber": 153,
+                    "imageId": "d015a98f-2dc5eb18-3cb9dd9f-fb0136dc-8a4b85f0/file"
+                },
+                {
+                    "instanceNumber": 154,
+                    "imageId": "60e4917b-0ba0163c-f1cc72d8-a23beb3c-eb4462c7/file"
+                },
+                {
+                    "instanceNumber": 155,
+                    "imageId": "85961b27-b4b1180b-2b62e5b9-d21a99da-b29c5c8d/file"
+                },
+                {
+                    "instanceNumber": 156,
+                    "imageId": "f4a1a303-0b7e4214-aad17a09-24f72161-d86c9496/file"
+                },
+                {
+                    "instanceNumber": 157,
+                    "imageId": "1ae4cc2c-aacf0081-5c3818b3-178784a4-a5733c90/file"
+                },
+                {
+                    "instanceNumber": 158,
+                    "imageId": "3b12b292-817601f9-e88762a0-cdd176c6-6407aa79/file"
+                },
+                {
+                    "instanceNumber": 159,
+                    "imageId": "5671602c-ec62621e-ddc9578f-ce9e28c5-b3ea5123/file"
+                },
+                {
+                    "instanceNumber": 160,
+                    "imageId": "714e8273-e3fc388b-d2ed9c19-6bc6342b-1e02362f/file"
+                }
+            ]
+        }
+    ]
+},
+{
+    "patientName": "Anonymized3",
+    "patientId": "8630cf31-7543-4f9b-9c25-13ee4c9e57e7",
+    "internalId": "bf4fd3",
+    "studyDate": "",
+    "modality": "EXAMES EXTERIOR - TRIBUNAIS E HOSPITAIS MAMOGRAFI",
+    "studyDescription": "EXAMES EXTERIOR - TRIBUNAIS E HOSPITAIS MAMOGRAFI",
+    "numImages": 1,
+    "studyId": "f2916dae-a9d4cbbc-8639377e-2c21f6d1-794307ac",
+    "seriesList": [
+        {
+            "seriesDescription": "MG",
+            "seriesNumber": "6629",
+            "instanceList": [
+                {
+                    "instanceNumber": 1,
+                    "imageId": "cff9b2e9-e9fe29b8-0b071225-cf58d645-f7373b19/file"
+                }
+            ]
+        },
+        {
+            "seriesDescription": "MG",
+            "seriesNumber": "6629",
+            "instanceList": [
+                {
+                    "instanceNumber": 2,
+                    "imageId": "e6e9c33d-c6cd04dc-f92c75ea-9ec89953-cb4b29e5/file"
+                }
+            ]
+        },
+        {
+            "seriesDescription": "MG",
+            "seriesNumber": "6629",
+            "instanceList": [
+                {
+                    "instanceNumber": 3,
+                    "imageId": "66c6be67-ec1e208f-3dfa512b-3eb2dbff-0b2c742c/file"
+                }
+            ]
+        },
+        {
+            "seriesDescription": "MG",
+            "seriesNumber": "6629",
+            "instanceList": [
+                {
+                    "instanceNumber": 4,
+                    "imageId": "41109f35-6454c703-f67c23ad-64d0cab1-a3dc3cb9/file"
+                }
+            ]
+        }
+    ]
+},
+{
+    "patientName": "Anonymized3",
+    "patientId": "8630cf31-7543-4f9b-9c25-13ee4c9e57e7",
+    "internalId": "bf4fd3",
+    "studyDate": "",
+    "modality": "Breast",
+    "studyDescription": "Breast",
+    "numImages": 1,
+    "studyId": "d8d0230c-6f647ebd-7d6ad6ff-19ff343c-262d93fe",
+    "seriesList": [
+        {
+            "seriesDescription": "US",
+            "seriesNumber": "1",
+            "instanceList": [
+                {
+                    "instanceNumber": 2,
+                    "imageId": "91af9e86-2e8c929b-b7b17673-00cc2bf9-b9e745c7/file"
+                }
+            ]
+        }
+    ]
+}
