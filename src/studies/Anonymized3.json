@@ -9,6 +9,56 @@
     "studyId": "52db9859-ad98a8a5-64fb0fe1-6793e3f2-58e3e0f3",
     "seriesList": [
         {
+            "seriesDescription": "US",
+            "seriesNumber": "1",
+            "instanceList": [
+                {
+                    "instanceNumber": 7,
+                    "imageId": "5cdc7058-5d28bf03-c766c570-6266217a-af2d8f03/file"
+                }
+            ]
+        },
+        {
+            "seriesDescription": "MG",
+            "seriesNumber": "5381",
+            "instanceList": [
+                {
+                    "instanceNumber": 1,
+                    "imageId": "ca13dfdc-e0352a93-846a23bb-48aeda86-27eb1419/file"
+                }
+            ]
+        },
+        {
+            "seriesDescription": "MG",
+            "seriesNumber": "5381",
+            "instanceList": [
+                {
+                    "instanceNumber": 3,
+                    "imageId": "e1ad1189-7c8e9c91-9e71e191-59ebf818-8042d18e/file"
+                }
+            ]
+        },
+        {
+            "seriesDescription": "MG",
+            "seriesNumber": "5381",
+            "instanceList": [
+                {
+                    "instanceNumber": 2,
+                    "imageId": "f3bbce6d-15a59d35-4da81e47-98a82cd7-8f946c23/file"
+                }
+            ]
+        },
+        {
+            "seriesDescription": "MG",
+            "seriesNumber": "5381",
+            "instanceList": [
+                {
+                    "instanceNumber": 4,
+                    "imageId": "a9d309a4-7b6999de-b1dacc3a-4b5ced4f-e1fc8a99/file"
+                }
+            ]
+        },
+        {
             "seriesDescription": "MR",
             "seriesNumber": "16",
             "instanceList": [
@@ -651,56 +701,6 @@
                 {
                     "instanceNumber": 160,
                     "imageId": "bd6bfb41-36db12a4-62679b3d-a8a6758d-df9ca4f2/file"
-                }
-            ]
-        },
-        {
-            "seriesDescription": "MG",
-            "seriesNumber": "5381",
-            "instanceList": [
-                {
-                    "instanceNumber": 1,
-                    "imageId": "ca13dfdc-e0352a93-846a23bb-48aeda86-27eb1419/file"
-                }
-            ]
-        },
-        {
-            "seriesDescription": "MG",
-            "seriesNumber": "5381",
-            "instanceList": [
-                {
-                    "instanceNumber": 2,
-                    "imageId": "f3bbce6d-15a59d35-4da81e47-98a82cd7-8f946c23/file"
-                }
-            ]
-        },
-        {
-            "seriesDescription": "MG",
-            "seriesNumber": "5381",
-            "instanceList": [
-                {
-                    "instanceNumber": 3,
-                    "imageId": "e1ad1189-7c8e9c91-9e71e191-59ebf818-8042d18e/file"
-                }
-            ]
-        },
-        {
-            "seriesDescription": "MG",
-            "seriesNumber": "5381",
-            "instanceList": [
-                {
-                    "instanceNumber": 4,
-                    "imageId": "a9d309a4-7b6999de-b1dacc3a-4b5ced4f-e1fc8a99/file"
-                }
-            ]
-        },
-        {
-            "seriesDescription": "US",
-            "seriesNumber": "1",
-            "instanceList": [
-                {
-                    "instanceNumber": 7,
-                    "imageId": "5cdc7058-5d28bf03-c766c570-6266217a-af2d8f03/file"
                 }
             ]
         }
