@@ -3,8 +3,8 @@
     "patientId": "8630cf31-7543-4f9b-9c25-13ee4c9e57e7",
     "internalId": "bf4fd3",
     "studyDate": "",
-    "modality": "MAMA^ROTINA",
-    "studyDescription": "MAMA^ROTINA",
+    "modality": "Breast",
+    "studyDescription": "Breast",
     "numImages": 160,
     "studyId": "f3b7b1f5-e9fbcb85-4b4b5696-882801f6-a9487137",
     "seriesList": [
