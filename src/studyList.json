@@ -36,6 +36,26 @@
             "studyDescription": "5",
             "numImages": 1,
             "studyId": "10-55-87"
+        },
+        {
+            "patientName": "Anonymized1",
+            "patientId": "c381f8f9-12ed-4076-be65-a79fd745644c",
+            "internalId": "75b1d5",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "c381f8f9-12ed-4076-be65-a79fd745644c"
+        },
+        {
+            "patientName": "Anonymized2",
+            "patientId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72",
+            "internalId": "d761c4",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72"
         }
     ]
 }
