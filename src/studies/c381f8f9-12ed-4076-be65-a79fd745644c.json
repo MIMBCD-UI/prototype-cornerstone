@@ -2,7 +2,7 @@
     "patientName": "Anonymized1",
     "patientId": "c381f8f9-12ed-4076-be65-a79fd745644c",
     "internalId": "75b1d5",
-    "studyDate": "",
+    "studyDate": "20210101",
     "modality": "Breast",
     "studyDescription": "Breast",
     "numImages": 1,
