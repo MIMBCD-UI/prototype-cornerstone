@@ -46,16 +46,6 @@
             "studyDescription": "Breast",
             "numImages": 1,
             "studyId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72"
-        },
-        {
-            "patientName": "Anonymized3",
-            "patientId": "Anonymized3",
-            "internalId": "d761c4",
-            "studyDate": "",
-            "modality": "Breast",
-            "studyDescription": "Breast",
-            "numImages": 1,
-            "studyId": "Anonymized3"
         }
     ]
 }
