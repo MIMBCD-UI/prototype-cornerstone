@@ -38,6 +38,16 @@
             "studyId": "10-55-87"
         },
         {
+            "patientName": "MR/BRAIN/GRASE/1024",
+            "patientId": "7",
+            "internalId": "8f14e4",
+            "studyDate": "19950330",
+            "modality": "BRAIN",
+            "studyDescription": "BRAIN",
+            "numImages": 1,
+            "studyId": "7"
+        },
+        {
             "patientName": "Anonymized1",
             "patientId": "c381f8f9-12ed-4076-be65-a79fd745644c",
             "internalId": "75b1d5",

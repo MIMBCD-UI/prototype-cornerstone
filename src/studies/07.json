@@ -1,0 +1,22 @@
+{
+    "patientName": "MR/BRAIN/GRASE/1024",
+    "patientId": "7",
+    "internalId": "8f14e4",
+    "studyDate": "19950330",
+    "modality": "BRAIN",
+    "studyDescription": "BRAIN",
+    "numImages": 1,
+    "studyId": "ad5040ea-f640e840-9c9351be-4608e36e-7f5e8894",
+    "seriesList": [
+        {
+            "seriesDescription": "MR",
+            "seriesNumber": "1",
+            "instanceList": [
+                {
+                    "instanceNumber": 1,
+                    "imageId": "3f4f4f8d-ae1dde00-59e12fe6-67bc239e-8044646d/file"
+                }
+            ]
+        }
+    ]
+}
