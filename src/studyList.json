@@ -48,14 +48,14 @@
             "studyId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72"
         },
         {
-            "patientName": "Anonymized3",
-            "patientId": "8630cf31-7543-4f9b-9c25-13ee4c9e57e7",
-            "internalId": "bf4fd3",
+            "patientName": "Anonymized2",
+            "patientId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72",
+            "internalId": "d761c4",
             "studyDate": "",
             "modality": "Breast",
             "studyDescription": "Breast",
             "numImages": 1,
-            "studyId": "8630cf31-7543-4f9b-9c25-13ee4c9e57e7"
+            "studyId": "3bbf8700-a530-48c7-8ea6-0d782bad0f72"
         }
     ]
 }
