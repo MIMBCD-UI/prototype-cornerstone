@@ -1,19 +1,19 @@
 {
     "patientName": "Anonymized1",
     "patientId": "c381f8f9-12ed-4076-be65-a79fd745644c",
-    "internalId": "75b1d5",
-    "studyDate": "20210101",
-    "modality": "Breast",
-    "studyDescription": "Breast",
+    "internalId": "8f14e4",
+    "studyDate": "19950330",
+    "modality": "BRAIN",
+    "studyDescription": "BRAIN",
     "numImages": 1,
-    "studyId": "d0a93c5e-7bae144f-d6533228-11d4f655-cdc9ec2b",
+    "studyId": "ad5040ea-f640e840-9c9351be-4608e36e-7f5e8894",
     "seriesList": [
         {
-            "seriesDescription": "US",
+            "seriesDescription": "MR",
             "seriesNumber": "1",
             "instanceList": [
                 {
-                    "instanceNumber": 4,
+                    "instanceNumber": 1,
                     "imageId": "f6ebd1e6-5d8f296f-cf39a937-1130c3c2-6129d263/file"
                 }
             ]
