@@ -3,8 +3,8 @@
     "patientId": "c381f8f9-12ed-4076-be65-a79fd745644c",
     "internalId": "75b1d5",
     "studyDate": "",
-    "modality": "MAMA^ROTINA",
-    "studyDescription": "MAMA^ROTINA",
+    "modality": "Breast",
+    "studyDescription": "Breast",
     "numImages": 176,
     "studyId": "2a762e25-3f2f8d76-f2d3fd39-5d5389ea-4c04ef8c",
     "seriesList": [
@@ -717,19 +717,7 @@
                     "imageId": "eb5db329-34b69a46-e39a77a1-e31e2435-a492ae0e/file"
                 }
             ]
-        }
-    ]
-},
-{
-    "patientName": "Anonymized1",
-    "patientId": "c381f8f9-12ed-4076-be65-a79fd745644c",
-    "internalId": "75b1d5",
-    "studyDate": "",
-    "modality": "Screening-Bilateral Mammography",
-    "studyDescription": "Screening-Bilateral Mammography",
-    "numImages": 1,
-    "studyId": "429e6627-03eb9625-65c4016e-975888e5-a2b9faba",
-    "seriesList": [
+        },
         {
             "seriesDescription": "MG",
             "seriesNumber": "3",
@@ -769,19 +757,7 @@
                     "imageId": "a828152e-d550f871-4d80c218-63c4aa1d-77650572/file"
                 }
             ]
-        }
-    ]
-},
-{
-    "patientName": "Anonymized1",
-    "patientId": "c381f8f9-12ed-4076-be65-a79fd745644c",
-    "internalId": "75b1d5",
-    "studyDate": "",
-    "modality": "Breast",
-    "studyDescription": "Breast",
-    "numImages": 1,
-    "studyId": "d0a93c5e-7bae144f-d6533228-11d4f655-cdc9ec2b",
-    "seriesList": [
+        },
         {
             "seriesDescription": "US",
             "seriesNumber": "1",
