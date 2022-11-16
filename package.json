@@ -44,7 +44,7 @@
     "load-grunt-tasks": "^5.1.0",
     "node-libs-browser": "^2.2.1",
     "webpack": "^4.46.0",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^3.11.3"
   },
   "dependencies": {
     "ajv-keywords": "^3.5.2",
